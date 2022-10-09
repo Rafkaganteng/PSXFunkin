@@ -1,0 +1,2778 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a36.o)
+                              src/timer.o (EnterCriticalSection)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a37.o)
+                              src/timer.o (ExitCriticalSection)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a91.o)
+                              src/pad.o (ChangeClearPAD)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(counter.o)
+                              src/timer.o (SetRCnt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l10.o)
+                              src/timer.o (ChangeClearRCnt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o)
+                              src/pad.o (InitPAD)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(patch.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (_patch_pad)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a18.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (InitPAD2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a19.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (StartPAD2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a21.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (PAD_init2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c68.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(patch.o) (FlushCache)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(chclrpad.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (_remove_ChgclrPAD)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l02.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (SysEnqIntRP)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l03.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o) (SysDeqIntRP)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memcpy.o)
+                              src/gfx.o (memcpy)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memset.o)
+                              src/stage.o (memset)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(printf.o)
+                              src/io.o (printf)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(printf.o) (prnt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o) (_putchar)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o)
+                              src/io.o (sprintf)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcpy.o)
+                              src/movie.o (strcpy)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strlen.o)
+                              src/font.o (strlen)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strncmp.o)
+                              src/archive.o (strncmp)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(ctype_0.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o) (_ctype_)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memchr.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o) (memchr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memmove.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o) (memmove)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o)
+                              src/movie.o (StUnSetRing)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o)
+                              src/movie.o (StSetStream)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_007.o)
+                              src/movie.o (StFreeRing)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_009.o)
+                              src/movie.o (StGetNext)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_010.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o) (StSetMask)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o)
+                              src/io.o (CdReadSync)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdread2.o)
+                              src/movie.o (CdRead2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o) (Stsector_offset)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o)
+                              src/io.o (CdInit)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+                              src/io.o (CdSearchFile)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_002.o)
+                              src/audio.o (CdIntToPos)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_003.o)
+                              src/io.o (CdStatus)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_004.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdMode)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_006.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdLastPos)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_008.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdFlush)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_013.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdReady)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_014.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdSyncCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_015.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o) (CdReadyCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_016.o)
+                              src/io.o (CdControl)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_020.o)
+                              src/audio.o (CdMix)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_021.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdGetSector)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_022.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdGetSector2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_023.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o) (CdDataCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_024.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (CdDataSync)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(sys.o)
+                              src/audio.o (CdPosToInt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o) (CD_cbready)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_2.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_021.o) (CD_getsector)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_3.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_022.o) (CD_getsector2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_002.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o) (StClearRing)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_004.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdread2.o) (data_ready_callback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_008.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_002.o) (init_ring_status)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdread2.o) (StCdInterrupt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_2.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o) (DsReadyCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_4.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o) (DsDataCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_2.o) (GlobalCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_023.o) (DMACallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_dma.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (startIntrDMA)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_vb.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (startIntrVSync)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(pad.o)
+                              src/movie.o (PadRead)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vmode.o)
+                              src/gfx.o (SetVideoMode)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vsync.o)
+                              src/gfx.o (VSync)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e03.o)
+                              src/gfx.o (SetDefDrawEnv)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e04.o)
+                              src/gfx.o (SetDefDispEnv)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+                              src/gfx.o (FntFlush)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p06.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (AddPrim)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p09.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (TermPrim)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p10.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (SetSemiTrans)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p20.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (SetSprt8)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p26.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (SetTile)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p41.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (SetDrawMode)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+                              src/gfx.o (LoadImage)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(t00.o)
+                              src/gfx.o (ReadTIM)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e00.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (LoadTPage)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e02.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o) (LoadClut2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p00.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e00.o) (GetTPage)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p01.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e02.o) (GetClut)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(libpress.o)
+                              src/movie.o (DecDCToutCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(vlc.o)
+                              src/movie.o (DecDCTvlc)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(table.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(vlc.o) (CF_DVLC)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o)
+                              src/audio.o (SsInit)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sssv.o)
+                              src/audio.o (SsSetSerialVol)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sstick.o)
+                              src/gfx.o (SsSetTickMode)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o) (_SsInit)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstart.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sstick.o) (_snd_seq_tick_env)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o) (_SsVmInit)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_nowof.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (_SsVmKeyOffNow)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstart.o) (SsSeqCalledTbyT)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstop.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndStop)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(tempo.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndTempo)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_doff.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstop.o) (_SsVmDamperOff)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (_svm_okon2)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_g.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (_svm_rattr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_seq.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstop.o) (_SsVmSeqKeyOff)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_vsu.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_seq.o) (_SsVmVSetUp)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(cres.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndCrescendo)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(pause.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndPause)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(play.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndPlay)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(replay.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o) (_SsSndReplay)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(midiread.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(play.o) (_SsSeqPlay)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(miditime.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(midiread.o) (_SsReadDeltaValue)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(next.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(midiread.o) (_SsSndNextSep)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o) (SpuClearReverbWorkArea)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gnv.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetNoiseVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_grv.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetReverbVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gvex.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuGetVoiceEnvelope)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_i.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o) (SpuInit)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_EVdma)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_it.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (_spu_setInTransfer)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o) (_spu_memList)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_init.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (SpuInitMalloc)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_util.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o) (_SpuIsInAllocateArea_)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_rmp0.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_rev_startaddr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sca.o)
+                              src/audio.o (SpuSetCommonAttr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sk.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetKey)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_snv.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetNoiseVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_srv.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o) (SpuSetReverbVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o) (SpuSetVoiceAttr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o) (_spu_FsetRXXa)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(zerobuf.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o) (_spu_zerobuf)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_dcb.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o) (_SpuDataCallback)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gav.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gnv.o) (_SpuGetAnyVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_n2p.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o) (_spu_note2pitch)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sav.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_snv.o) (_SpuSetAnyVoice)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a07.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o) (DeliverEvent)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a08.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o) (OpenEvent)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a10.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o) (WaitEvent)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a12.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o) (EnableEvent)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a22.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(pad.o) (PAD_dr)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a23.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (ReturnFromException)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a24.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (ResetEntryInt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a25.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (HookEntryInt)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a53.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o) (write)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c114.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (_96_remove)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c73.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o) (GPU_cw)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(puts.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o) (puts)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(setjmp.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o) (setjmp)
+D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcmp.o)
+                              D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o) (strcmp)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 src/main.o
+ .data          0x0000000000000000        0x0 src/main.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/main.o
+ .pdr           0x0000000000000000       0x40 src/main.o
+ .text          0x0000000000000000        0x0 src/mem.o
+ .data          0x0000000000000000        0x0 src/mem.o
+ .bss           0x0000000000000000        0x0 src/mem.o
+ .reginfo       0x0000000000000000       0x18 src/mem.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/mem.o
+ .pdr           0x0000000000000000       0x60 src/mem.o
+ .text          0x0000000000000000        0x0 src/mutil.o
+ .data          0x0000000000000000        0x0 src/mutil.o
+ .bss           0x0000000000000000        0x0 src/mutil.o
+ .reginfo       0x0000000000000000       0x18 src/mutil.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/mutil.o
+ .pdr           0x0000000000000000       0x60 src/mutil.o
+ .text.MUtil_Sin
+                0x0000000000000000       0x1c src/mutil.o
+ .text.MUtil_RotatePoint
+                0x0000000000000000       0x54 src/mutil.o
+ .text          0x0000000000000000        0x0 src/timer.o
+ .data          0x0000000000000000        0x0 src/timer.o
+ .bss           0x0000000000000000        0x0 src/timer.o
+ .reginfo       0x0000000000000000       0x18 src/timer.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/timer.o
+ .pdr           0x0000000000000000       0x80 src/timer.o
+ .text          0x0000000000000000        0x0 src/io.o
+ .data          0x0000000000000000        0x0 src/io.o
+ .bss           0x0000000000000000        0x0 src/io.o
+ .reginfo       0x0000000000000000       0x18 src/io.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/io.o
+ .pdr           0x0000000000000000      0x120 src/io.o
+ .text.IO_ReadFile
+                0x0000000000000000       0x34 src/io.o
+ .text.IO_AsyncRead
+                0x0000000000000000       0x40 src/io.o
+ .text.IO_IsSeeking
+                0x0000000000000000       0x34 src/io.o
+ .text          0x0000000000000000        0x0 src/gfx.o
+ .data          0x0000000000000000        0x0 src/gfx.o
+ .reginfo       0x0000000000000000       0x18 src/gfx.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/gfx.o
+ .pdr           0x0000000000000000      0x1a0 src/gfx.o
+ .text.Gfx_DrawTexArb
+                0x0000000000000000      0x170 src/gfx.o
+ .text          0x0000000000000000        0x0 src/audio.o
+ .data          0x0000000000000000        0x0 src/audio.o
+ .reginfo       0x0000000000000000       0x18 src/audio.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/audio.o
+ .pdr           0x0000000000000000      0x220 src/audio.o
+ .text.Audio_PlayXA
+                0x0000000000000000       0x48 src/audio.o
+ .text.Audio_PauseXA
+                0x0000000000000000       0x34 src/audio.o
+ .text.Audio_TellXA_Sector
+                0x0000000000000000       0x18 src/audio.o
+ .text          0x0000000000000000        0x0 src/movie.o
+ .data          0x0000000000000000        0x0 src/movie.o
+ .bss           0x0000000000000000       0x38 src/movie.o
+ .reginfo       0x0000000000000000       0x18 src/movie.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/movie.o
+ .pdr           0x0000000000000000       0xa0 src/movie.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/movie.o
+ .text.strCallback
+                0x0000000000000000       0xfc src/movie.o
+ .text.strNextVlc.constprop.0
+                0x0000000000000000      0x194 src/movie.o
+ .text.strDoPlayback
+                0x0000000000000000      0x354 src/movie.o
+ .text.PlayStr  0x0000000000000000       0x64 src/movie.o
+ .rodata.str1.4
+                0x0000000000000000       0x21 src/movie.o
+ .text.Movie_Play
+                0x0000000000000000       0x94 src/movie.o
+ .sbss          0x0000000000000000       0x20 src/movie.o
+ .debug_info    0x0000000000000000      0xda0 src/movie.o
+ .debug_abbrev  0x0000000000000000      0x3d3 src/movie.o
+ .debug_loclists
+                0x0000000000000000      0x217 src/movie.o
+ .debug_aranges
+                0x0000000000000000       0x40 src/movie.o
+ .debug_rnglists
+                0x0000000000000000       0x74 src/movie.o
+ .debug_line    0x0000000000000000      0x526 src/movie.o
+ .debug_str     0x0000000000000000      0x517 src/movie.o
+ .comment       0x0000000000000000       0x13 src/movie.o
+ .debug_frame   0x0000000000000000      0x100 src/movie.o
+ .gnu.attributes
+                0x0000000000000000       0x10 src/movie.o
+ .text          0x0000000000000000        0x0 src/pad.o
+ .data          0x0000000000000000        0x0 src/pad.o
+ .reginfo       0x0000000000000000       0x18 src/pad.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/pad.o
+ .pdr           0x0000000000000000       0x40 src/pad.o
+ .text          0x0000000000000000        0x0 src/random.o
+ .data          0x0000000000000000        0x0 src/random.o
+ .bss           0x0000000000000000        0x0 src/random.o
+ .reginfo       0x0000000000000000       0x18 src/random.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/random.o
+ .pdr           0x0000000000000000       0xc0 src/random.o
+ .text.RandomSeed
+                0x0000000000000000        0xc src/random.o
+ .text.RandomGetSeed
+                0x0000000000000000       0x10 src/random.o
+ .text.Random8  0x0000000000000000       0x24 src/random.o
+ .text.Random32
+                0x0000000000000000       0x2c src/random.o
+ .text          0x0000000000000000        0x0 src/archive.o
+ .data          0x0000000000000000        0x0 src/archive.o
+ .bss           0x0000000000000000        0x0 src/archive.o
+ .reginfo       0x0000000000000000       0x18 src/archive.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/archive.o
+ .pdr           0x0000000000000000       0x20 src/archive.o
+ .text          0x0000000000000000        0x0 src/font.o
+ .data          0x0000000000000000        0x0 src/font.o
+ .bss           0x0000000000000000        0x0 src/font.o
+ .reginfo       0x0000000000000000       0x18 src/font.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/font.o
+ .pdr           0x0000000000000000       0x60 src/font.o
+ .text          0x0000000000000000        0x0 src/trans.o
+ .data          0x0000000000000000        0x0 src/trans.o
+ .bss           0x0000000000000000        0x0 src/trans.o
+ .reginfo       0x0000000000000000       0x18 src/trans.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/trans.o
+ .pdr           0x0000000000000000       0xa0 src/trans.o
+ .text          0x0000000000000000        0x0 src/loadscr.o
+ .data          0x0000000000000000        0x0 src/loadscr.o
+ .bss           0x0000000000000000        0x0 src/loadscr.o
+ .reginfo       0x0000000000000000       0x18 src/loadscr.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/loadscr.o
+ .pdr           0x0000000000000000       0x40 src/loadscr.o
+ .text          0x0000000000000000        0x0 src/menu.o
+ .data          0x0000000000000000        0x0 src/menu.o
+ .reginfo       0x0000000000000000       0x18 src/menu.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/menu.o
+ .pdr           0x0000000000000000       0xa0 src/menu.o
+ .text          0x0000000000000000        0x0 src/stage.o
+ .data          0x0000000000000000        0x0 src/stage.o
+ .reginfo       0x0000000000000000       0x18 src/stage.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage.o
+ .pdr           0x0000000000000000      0x3a0 src/stage.o
+ .text.Stage_GetSectionLength
+                0x0000000000000000       0x40 src/stage.o
+ .text.Stage_DrawTexArb
+                0x0000000000000000      0x174 src/stage.o
+ .text          0x0000000000000000        0x0 src/stage/dummy.o
+ .data          0x0000000000000000        0x0 src/stage/dummy.o
+ .bss           0x0000000000000000        0x0 src/stage/dummy.o
+ .reginfo       0x0000000000000000       0x18 src/stage/dummy.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/dummy.o
+ .pdr           0x0000000000000000       0x40 src/stage/dummy.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/dummy.o
+ .text.Back_Dummy_Free
+                0x0000000000000000        0x8 src/stage/dummy.o
+ .text.Back_Dummy_New
+                0x0000000000000000       0x58 src/stage/dummy.o
+ .debug_info    0x0000000000000000      0x211 src/stage/dummy.o
+ .debug_abbrev  0x0000000000000000      0x14e src/stage/dummy.o
+ .debug_loclists
+                0x0000000000000000       0x55 src/stage/dummy.o
+ .debug_aranges
+                0x0000000000000000       0x28 src/stage/dummy.o
+ .debug_rnglists
+                0x0000000000000000       0x19 src/stage/dummy.o
+ .debug_line    0x0000000000000000      0x109 src/stage/dummy.o
+ .debug_str     0x0000000000000000      0x239 src/stage/dummy.o
+ .comment       0x0000000000000000       0x13 src/stage/dummy.o
+ .debug_frame   0x0000000000000000       0x40 src/stage/dummy.o
+ .gnu.attributes
+                0x0000000000000000       0x10 src/stage/dummy.o
+ .text          0x0000000000000000        0x0 src/stage/week1.o
+ .data          0x0000000000000000        0x0 src/stage/week1.o
+ .bss           0x0000000000000000        0x0 src/stage/week1.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week1.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week1.o
+ .pdr           0x0000000000000000       0x60 src/stage/week1.o
+ .text          0x0000000000000000        0x0 src/stage/week2.o
+ .data          0x0000000000000000        0x0 src/stage/week2.o
+ .bss           0x0000000000000000        0x0 src/stage/week2.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week2.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week2.o
+ .pdr           0x0000000000000000       0x60 src/stage/week2.o
+ .text          0x0000000000000000        0x0 src/stage/week3.o
+ .data          0x0000000000000000        0x0 src/stage/week3.o
+ .bss           0x0000000000000000        0x0 src/stage/week3.o
+ .reginfo       0x0000000000000000       0x18 src/stage/week3.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/week3.o
+ .pdr           0x0000000000000000       0x60 src/stage/week3.o
+ .text          0x0000000000000000        0x0 src/stage/weekchara.o
+ .data          0x0000000000000000        0x0 src/stage/weekchara.o
+ .bss           0x0000000000000000        0x0 src/stage/weekchara.o
+ .reginfo       0x0000000000000000       0x18 src/stage/weekchara.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/weekchara.o
+ .pdr           0x0000000000000000       0x60 src/stage/weekchara.o
+ .text          0x0000000000000000        0x0 src/stage/weekhell.o
+ .data          0x0000000000000000        0x0 src/stage/weekhell.o
+ .bss           0x0000000000000000        0x0 src/stage/weekhell.o
+ .reginfo       0x0000000000000000       0x18 src/stage/weekhell.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/stage/weekhell.o
+ .pdr           0x0000000000000000       0x60 src/stage/weekhell.o
+ .text          0x0000000000000000        0x0 src/animation.o
+ .data          0x0000000000000000        0x0 src/animation.o
+ .bss           0x0000000000000000        0x0 src/animation.o
+ .reginfo       0x0000000000000000       0x18 src/animation.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/animation.o
+ .pdr           0x0000000000000000       0x80 src/animation.o
+ .text          0x0000000000000000        0x0 src/character.o
+ .data          0x0000000000000000        0x0 src/character.o
+ .bss           0x0000000000000000        0x0 src/character.o
+ .reginfo       0x0000000000000000       0x18 src/character.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character.o
+ .pdr           0x0000000000000000       0xa0 src/character.o
+ .text          0x0000000000000000        0x0 src/character/bf.o
+ .bss           0x0000000000000000        0x0 src/character/bf.o
+ .reginfo       0x0000000000000000       0x18 src/character/bf.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/bf.o
+ .pdr           0x0000000000000000       0xa0 src/character/bf.o
+ .text          0x0000000000000000        0x0 src/character/bfweeb.o
+ .bss           0x0000000000000000        0x0 src/character/bfweeb.o
+ .reginfo       0x0000000000000000       0x18 src/character/bfweeb.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/bfweeb.o
+ .pdr           0x0000000000000000       0xa0 src/character/bfweeb.o
+ .text          0x0000000000000000        0x0 src/character/gf.o
+ .data          0x0000000000000000        0x0 src/character/gf.o
+ .bss           0x0000000000000000        0x0 src/character/gf.o
+ .reginfo       0x0000000000000000       0x18 src/character/gf.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/gf.o
+ .pdr           0x0000000000000000       0xa0 src/character/gf.o
+ .text          0x0000000000000000        0x0 src/character/speaker.o
+ .data          0x0000000000000000        0x0 src/character/speaker.o
+ .bss           0x0000000000000000        0x0 src/character/speaker.o
+ .reginfo       0x0000000000000000       0x18 src/character/speaker.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/speaker.o
+ .pdr           0x0000000000000000       0x60 src/character/speaker.o
+ .text          0x0000000000000000        0x0 src/character/dad.o
+ .data          0x0000000000000000        0x0 src/character/dad.o
+ .bss           0x0000000000000000        0x0 src/character/dad.o
+ .reginfo       0x0000000000000000       0x18 src/character/dad.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/dad.o
+ .pdr           0x0000000000000000       0xa0 src/character/dad.o
+ .text          0x0000000000000000        0x0 src/character/spook.o
+ .data          0x0000000000000000        0x0 src/character/spook.o
+ .bss           0x0000000000000000        0x0 src/character/spook.o
+ .reginfo       0x0000000000000000       0x18 src/character/spook.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/spook.o
+ .pdr           0x0000000000000000       0xa0 src/character/spook.o
+ .text          0x0000000000000000        0x0 src/character/pico.o
+ .data          0x0000000000000000        0x0 src/character/pico.o
+ .bss           0x0000000000000000        0x0 src/character/pico.o
+ .reginfo       0x0000000000000000       0x18 src/character/pico.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/pico.o
+ .pdr           0x0000000000000000       0xa0 src/character/pico.o
+ .text          0x0000000000000000        0x0 src/character/mom.o
+ .data          0x0000000000000000        0x0 src/character/mom.o
+ .bss           0x0000000000000000        0x0 src/character/mom.o
+ .reginfo       0x0000000000000000       0x18 src/character/mom.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/mom.o
+ .pdr           0x0000000000000000       0xa0 src/character/mom.o
+ .text          0x0000000000000000        0x0 src/character/senpai.o
+ .data          0x0000000000000000        0x0 src/character/senpai.o
+ .bss           0x0000000000000000        0x0 src/character/senpai.o
+ .reginfo       0x0000000000000000       0x18 src/character/senpai.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/senpai.o
+ .pdr           0x0000000000000000       0xa0 src/character/senpai.o
+ .text          0x0000000000000000        0x0 src/character/chara.o
+ .data          0x0000000000000000        0x0 src/character/chara.o
+ .bss           0x0000000000000000        0x0 src/character/chara.o
+ .reginfo       0x0000000000000000       0x18 src/character/chara.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/chara.o
+ .pdr           0x0000000000000000       0xa0 src/character/chara.o
+ .text          0x0000000000000000        0x0 src/character/dustpico.o
+ .bss           0x0000000000000000        0x0 src/character/dustpico.o
+ .reginfo       0x0000000000000000       0x18 src/character/dustpico.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/character/dustpico.o
+ .pdr           0x0000000000000000       0xa0 src/character/dustpico.o
+ .text          0x0000000000000000        0x0 src/object.o
+ .data          0x0000000000000000        0x0 src/object.o
+ .bss           0x0000000000000000        0x0 src/object.o
+ .reginfo       0x0000000000000000       0x18 src/object.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/object.o
+ .pdr           0x0000000000000000       0x80 src/object.o
+ .text          0x0000000000000000        0x0 src/object/combo.o
+ .data          0x0000000000000000        0x0 src/object/combo.o
+ .bss           0x0000000000000000        0x0 src/object/combo.o
+ .reginfo       0x0000000000000000       0x18 src/object/combo.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 src/object/combo.o
+ .pdr           0x0000000000000000       0x60 src/object/combo.o
+ .text          0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .data          0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .bss           0x0000000000000000        0x0 mips/common/crt0/crt0.o
+ .reginfo       0x0000000000000000       0x18 mips/common/crt0/crt0.o
+ .MIPS.abiflags
+                0x0000000000000000       0x18 mips/common/crt0/crt0.o
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o)
+ .text          0x0000000000000000       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o)
+ .bss           0x0000000000000000        0xc D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o)
+ .text          0x0000000000000000       0x90 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_007.o)
+ .text          0x0000000000000000       0xb0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_007.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_009.o)
+ .text          0x0000000000000000       0xc0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_009.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_010.o)
+ .text          0x0000000000000000       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_010.o)
+ .text          0x0000000000000000       0xb0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdread2.o)
+ .bss           0x0000000000000000       0x8c D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o)
+ .text          0x0000000000000000       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_002.o)
+ .text          0x0000000000000000       0x60 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_002.o)
+ .bss           0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_004.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_004.o)
+ .text          0x0000000000000000       0xf0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_004.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_008.o)
+ .text          0x0000000000000000       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_008.o)
+ .bss           0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+ .rdata         0x0000000000000000       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+ .data          0x0000000000000000       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+ .text          0x0000000000000000      0xaf0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+ .text          0x0000000000000000       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_2.o)
+ .text          0x0000000000000000       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_4.o)
+ .bss           0x0000000000000000        0xc D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb.o)
+ .bss           0x0000000000000000       0x14 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(pad.o)
+ .text          0x0000000000000000       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(pad.o)
+ .rdata         0x0000000000000000       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(libpress.o)
+ .data          0x0000000000000000      0x150 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(libpress.o)
+ .text          0x0000000000000000      0x690 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(libpress.o)
+ .data          0x0000000000000000       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(vlc.o)
+ .text          0x0000000000000000      0x380 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(vlc.o)
+ .data          0x0000000000000000    0x10800 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(table.o)
+ .text          0x0000000000000000      0x310 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstart.o)
+ .text          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a22.o)
+ .data          0x0000000000000000       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(puts.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+loader           0x000000008000f800 0x0000000000000800
+ram              0x0000000080010000 0x00000000001f0000 xrw
+dcache           0x000000001f800000 0x0000000000000400
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD src/main.o
+LOAD src/mem.o
+LOAD src/mutil.o
+LOAD src/timer.o
+LOAD src/io.o
+LOAD src/gfx.o
+LOAD src/audio.o
+LOAD src/movie.o
+LOAD src/pad.o
+LOAD src/random.o
+LOAD src/archive.o
+LOAD src/font.o
+LOAD src/trans.o
+LOAD src/loadscr.o
+LOAD src/menu.o
+LOAD src/stage.o
+LOAD src/stage/dummy.o
+LOAD src/stage/week1.o
+LOAD src/stage/week2.o
+LOAD src/stage/week3.o
+LOAD src/stage/weekchara.o
+LOAD src/stage/weekhell.o
+LOAD src/animation.o
+LOAD src/character.o
+LOAD src/character/bf.o
+LOAD src/character/bfweeb.o
+LOAD src/character/gf.o
+LOAD src/character/speaker.o
+LOAD src/character/dad.o
+LOAD src/character/spook.o
+LOAD src/character/pico.o
+LOAD src/character/mom.o
+LOAD src/character/senpai.o
+LOAD src/character/chara.o
+LOAD src/character/dustpico.o
+LOAD src/object.o
+LOAD src/object/combo.o
+LOAD mips/common/crt0/crt0.o
+START GROUP
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpad.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a
+LOAD D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a
+END GROUP
+                0x0000000080148cec                __heap_base = __bss_end
+                0x0000000080010000                TLOAD_ADDR = DEFINED (TLOAD_ADDR)?TLOAD_ADDR:0x80010000
+                0x0000000080200000                __ram_top = (ORIGIN (ram) + LENGTH (ram))
+                0x00000000801fff00                __sp = (__ram_top - 0x100)
+                0x000000001f800000                __dcache = ORIGIN (dcache)
+                0x000000001f800400                __dcache_top = (ORIGIN (dcache) + LENGTH (dcache))
+                0x0000000000119cec                __bss_len = (__bss_end - __bss_start)
+                0x0000000000018340                __ftext_len = (__ftext_end - __ftext_start)
+                0x0000000000006cc0                __fdata_len = (__fdata_end - __fdata_start)
+                0x0000000080200000                __stack_start = (ORIGIN (ram) + LENGTH (ram))
+
+.PSX_EXE_Header
+                0x000000008000f800      0x800
+                0x000000008000f800        0x1 BYTE 0x50
+                0x000000008000f801        0x1 BYTE 0x53
+                0x000000008000f802        0x1 BYTE 0x2d
+                0x000000008000f803        0x1 BYTE 0x58
+                0x000000008000f804        0x1 BYTE 0x20
+                0x000000008000f805        0x1 BYTE 0x45
+                0x000000008000f806        0x1 BYTE 0x58
+                0x000000008000f807        0x1 BYTE 0x45
+                0x000000008000f808        0x4 LONG 0x0
+                0x000000008000f80c        0x4 LONG 0x0
+                0x000000008000f810        0x4 LONG 0x80010000 ABSOLUTE (_start)
+                0x000000008000f814        0x4 LONG 0x0
+                0x000000008000f818        0x4 LONG 0x80010000 TLOAD_ADDR
+                0x000000008000f81c        0x4 LONG 0x1f000 (__ftext_len + __fdata_len)
+                0x000000008000f820        0x4 LONG 0x0
+                0x000000008000f824        0x4 LONG 0x0
+                0x000000008000f828        0x4 LONG 0x0
+                0x000000008000f82c        0x4 LONG 0x0
+                0x000000008000f830        0x4 LONG 0x801fff00 DEFINED (_sp)?ABSOLUTE (_sp):0x801fff00
+                0x000000008000f834        0x4 LONG 0x0
+                0x0000000080010000                . = (. + 0x7c8)
+ *fill*         0x000000008000f838      0x7c8 
+                0x0000000080010000                __ftext_start = ABSOLUTE (.)
+
+.text           0x0000000080010000    0x18340
+ *(.start)
+ .start         0x0000000080010000       0x64 mips/common/crt0/crt0.o
+                0x0000000080010000                _start
+ *(.init)
+ *(SORT_NONE(.fini))
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ .text.startup.main
+                0x0000000080010064       0xb4 src/main.o
+                0x0000000080010064                main
+ *(.text.hot .text.hot.*)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.ErrorLock
+                0x0000000080010118       0x3c src/main.o
+                0x0000000080010118                ErrorLock
+ .text.Mem_Init
+                0x0000000080010154       0x58 src/mem.o
+                0x0000000080010154                Mem_Init
+ .text.Mem_Alloc
+                0x00000000800101ac       0xf4 src/mem.o
+                0x00000000800101ac                Mem_Alloc
+ .text.Mem_Free
+                0x00000000800102a0       0x78 src/mem.o
+                0x00000000800102a0                Mem_Free
+ .text.MUtil_Cos
+                0x0000000080010318       0x20 src/mutil.o
+                0x0000000080010318                MUtil_Cos
+ .text.Timer_Callback
+                0x0000000080010338       0x18 src/timer.o
+                0x0000000080010338                Timer_Callback
+ .text.Timer_Init
+                0x0000000080010350       0xf8 src/timer.o
+                0x0000000080010350                Timer_Init
+ .text.Timer_Tick
+                0x0000000080010448      0x10c src/timer.o
+                0x0000000080010448                Timer_Tick
+ .text.Timer_Reset
+                0x0000000080010554       0x24 src/timer.o
+                0x0000000080010554                Timer_Reset
+ .text.IO_Init  0x0000000080010578        0x8 src/io.o
+                0x0000000080010578                IO_Init
+ .text.IO_FindFile
+                0x0000000080010580       0x7c src/io.o
+                0x0000000080010580                IO_FindFile
+ .text.IO_SeekFile
+                0x00000000800105fc       0x10 src/io.o
+                0x00000000800105fc                IO_SeekFile
+ .text.IO_AsyncReadFile
+                0x000000008001060c       0xa8 src/io.o
+                0x000000008001060c                IO_AsyncReadFile
+ .text.IO_Read  0x00000000800106b4       0x58 src/io.o
+                0x00000000800106b4                IO_Read
+ .text.IO_IsReading
+                0x000000008001070c       0x34 src/io.o
+                0x000000008001070c                IO_IsReading
+ .text.Gfx_Flip
+                0x0000000080010740       0xd8 src/gfx.o
+                0x0000000080010740                Gfx_Flip
+ .text.Gfx_Init
+                0x0000000080010818      0x130 src/gfx.o
+                0x0000000080010818                Gfx_Init
+ .text.Gfx_SetClear
+                0x0000000080010948       0x24 src/gfx.o
+                0x0000000080010948                Gfx_SetClear
+ .text.Gfx_EnableClear
+                0x000000008001096c       0x18 src/gfx.o
+                0x000000008001096c                Gfx_EnableClear
+ .text.Gfx_DisableClear
+                0x0000000080010984       0x14 src/gfx.o
+                0x0000000080010984                Gfx_DisableClear
+ .text.Gfx_LoadTex
+                0x0000000080010998      0x180 src/gfx.o
+                0x0000000080010998                Gfx_LoadTex
+ .text.Gfx_DrawRect
+                0x0000000080010b18       0xfc src/gfx.o
+                0x0000000080010b18                Gfx_DrawRect
+ .text.Gfx_BlendRect
+                0x0000000080010c14      0x158 src/gfx.o
+                0x0000000080010c14                Gfx_BlendRect
+ .text.Gfx_BlitTexCol
+                0x0000000080010d6c      0x120 src/gfx.o
+                0x0000000080010d6c                Gfx_BlitTexCol
+ .text.Gfx_BlitTex
+                0x0000000080010e8c       0x30 src/gfx.o
+                0x0000000080010e8c                Gfx_BlitTex
+ .text.Gfx_DrawTexCol
+                0x0000000080010ebc      0x364 src/gfx.o
+                0x0000000080010ebc                Gfx_DrawTexCol
+ .text.Gfx_DrawTex
+                0x0000000080011220       0x2c src/gfx.o
+                0x0000000080011220                Gfx_DrawTex
+ .text.XA_SetFilter
+                0x000000008001124c       0x38 src/audio.o
+ .text.XA_SetVolume
+                0x0000000080011284       0x38 src/audio.o
+ .text.XA_Quit  0x00000000800112bc       0x4c src/audio.o
+ .text.XA_Init  0x0000000080011308       0x94 src/audio.o
+ .text.Audio_Init
+                0x000000008001139c       0x90 src/audio.o
+                0x000000008001139c                Audio_Init
+ .text.Audio_GetXAFile
+                0x000000008001142c       0x48 src/audio.o
+                0x000000008001142c                Audio_GetXAFile
+ .text.Audio_PlayXA_File
+                0x0000000080011474       0xb8 src/audio.o
+                0x0000000080011474                Audio_PlayXA_File
+ .text.Audio_PlayXA_Track
+                0x000000008001152c       0x30 src/audio.o
+                0x000000008001152c                Audio_PlayXA_Track
+ .text.Audio_StopXA
+                0x000000008001155c        0x8 src/audio.o
+                0x000000008001155c                Audio_StopXA
+ .text.Audio_ChannelXA
+                0x0000000080011564        0x8 src/audio.o
+                0x0000000080011564                Audio_ChannelXA
+ .text.Audio_TellXA_Milli
+                0x000000008001156c       0x40 src/audio.o
+                0x000000008001156c                Audio_TellXA_Milli
+ .text.Audio_PlayingXA
+                0x00000000800115ac       0x18 src/audio.o
+                0x00000000800115ac                Audio_PlayingXA
+ .text.Audio_ProcessXA
+                0x00000000800115c4      0x278 src/audio.o
+                0x00000000800115c4                Audio_ProcessXA
+ .text.Audio_WaitPlayXA
+                0x000000008001183c       0x40 src/audio.o
+                0x000000008001183c                Audio_WaitPlayXA
+ .text.Pad_Init
+                0x000000008001187c       0x58 src/pad.o
+                0x000000008001187c                Pad_Init
+ .text.Pad_Update
+                0x00000000800118d4       0x74 src/pad.o
+                0x00000000800118d4                Pad_Update
+ .text.Random16
+                0x0000000080011948       0x30 src/random.o
+                0x0000000080011948                Random16
+ .text.RandomRange
+                0x0000000080011978       0x30 src/random.o
+                0x0000000080011978                RandomRange
+ .text.Archive_Find
+                0x00000000800119a8       0x94 src/archive.o
+                0x00000000800119a8                Archive_Find
+ .text.Font_Bold_GetWidth
+                0x0000000080011a3c       0x28 src/font.o
+                0x0000000080011a3c                Font_Bold_GetWidth
+ .text.Font_Bold_Draw
+                0x0000000080011a64      0x15c src/font.o
+                0x0000000080011a64                Font_Bold_Draw
+ .text.FontData_Load
+                0x0000000080011bc0       0x64 src/font.o
+                0x0000000080011bc0                FontData_Load
+ .text.Trans_Set
+                0x0000000080011c24       0x1c src/trans.o
+                0x0000000080011c24                Trans_Set
+ .text.Trans_Clear
+                0x0000000080011c40       0x14 src/trans.o
+                0x0000000080011c40                Trans_Clear
+ .text.Trans_Start
+                0x0000000080011c54       0x10 src/trans.o
+                0x0000000080011c54                Trans_Start
+ .text.Trans_Tick
+                0x0000000080011c64       0xf4 src/trans.o
+                0x0000000080011c64                Trans_Tick
+ .text.Trans_Idle
+                0x0000000080011d58       0x10 src/trans.o
+                0x0000000080011d58                Trans_Idle
+ .text.LoadScr_Start
+                0x0000000080011d68       0xe0 src/loadscr.o
+                0x0000000080011d68                LoadScr_Start
+ .text.LoadScr_End
+                0x0000000080011e48       0x4c src/loadscr.o
+                0x0000000080011e48                LoadScr_End
+ .text.Menu_LowerIf
+                0x0000000080011e94       0x88 src/menu.o
+ .text.Menu_DifficultySelector
+                0x0000000080011f1c       0xe0 src/menu.o
+ .text.Menu_Load
+                0x0000000080011ffc      0x1ac src/menu.o
+                0x0000000080011ffc                Menu_Load
+ .text.Menu_Unload
+                0x00000000800121a8       0x10 src/menu.o
+                0x00000000800121a8                Menu_Unload
+ .text.Menu_Tick
+                0x00000000800121b8     0x1068 src/menu.o
+                0x00000000800121b8                Menu_Tick
+ .text.Stage_StartVocal
+                0x0000000080013220       0x58 src/stage.o
+                0x0000000080013220                Stage_StartVocal
+ .text.Stage_CutVocal
+                0x0000000080013278       0x60 src/stage.o
+                0x0000000080013278                Stage_CutVocal
+ .text.Stage_FocusCharacter
+                0x00000000800132d8       0x3c src/stage.o
+                0x00000000800132d8                Stage_FocusCharacter
+ .text.Stage_ScrollCamera
+                0x0000000080013314       0xb8 src/stage.o
+                0x0000000080013314                Stage_ScrollCamera
+ .text.Stage_ChangeBPM
+                0x00000000800133cc       0xe8 src/stage.o
+                0x00000000800133cc                Stage_ChangeBPM
+ .text.Stage_GetPrevSection
+                0x00000000800134b4       0x24 src/stage.o
+                0x00000000800134b4                Stage_GetPrevSection
+ .text.Stage_GetSectionStart
+                0x00000000800134d8       0x30 src/stage.o
+                0x00000000800134d8                Stage_GetSectionStart
+ .text.Stage_GetSectionScroll
+                0x0000000080013508       0xbc src/stage.o
+                0x0000000080013508                Stage_GetSectionScroll
+ .text.Stage_HitNote
+                0x00000000800135c4      0x2a4 src/stage.o
+                0x00000000800135c4                Stage_HitNote
+ .text.Stage_MissNote
+                0x0000000080013868       0xa0 src/stage.o
+                0x0000000080013868                Stage_MissNote
+ .text.Stage_NoteCheck
+                0x0000000080013908      0x26c src/stage.o
+                0x0000000080013908                Stage_NoteCheck
+ .text.Stage_SustainCheck
+                0x0000000080013b74      0x114 src/stage.o
+                0x0000000080013b74                Stage_SustainCheck
+ .text.Stage_DrawTexCol
+                0x0000000080013c88      0x130 src/stage.o
+                0x0000000080013c88                Stage_DrawTexCol
+ .text.Stage_DrawTex
+                0x0000000080013db8       0x30 src/stage.o
+                0x0000000080013db8                Stage_DrawTex
+ .text.Stage_DrawHealth
+                0x0000000080013de8      0x298 src/stage.o
+                0x0000000080013de8                Stage_DrawHealth
+ .text.Stage_DrawNotes
+                0x0000000080014080      0x61c src/stage.o
+                0x0000000080014080                Stage_DrawNotes
+ .text.Stage_LoadPlayer
+                0x000000008001469c       0x50 src/stage.o
+                0x000000008001469c                Stage_LoadPlayer
+ .text.Stage_LoadOpponent
+                0x00000000800146ec       0x50 src/stage.o
+                0x00000000800146ec                Stage_LoadOpponent
+ .text.Stage_LoadGirlfriend
+                0x000000008001473c       0x50 src/stage.o
+                0x000000008001473c                Stage_LoadGirlfriend
+ .text.Stage_LoadStage
+                0x000000008001478c       0x5c src/stage.o
+                0x000000008001478c                Stage_LoadStage
+ .text.Stage_LoadChart
+                0x00000000800147e8      0x110 src/stage.o
+                0x00000000800147e8                Stage_LoadChart
+ .text.Stage_LoadMusic
+                0x00000000800148f8       0x8c src/stage.o
+                0x00000000800148f8                Stage_LoadMusic
+ .text.Stage_LoadState
+                0x0000000080014984       0xbc src/stage.o
+                0x0000000080014984                Stage_LoadState
+ .text.Stage_Load
+                0x0000000080014a40      0x178 src/stage.o
+                0x0000000080014a40                Stage_Load
+ .text.Stage_Unload
+                0x0000000080014bb8       0x90 src/stage.o
+                0x0000000080014bb8                Stage_Unload
+ .text.Stage_NextLoad
+                0x0000000080014c48       0xdc src/stage.o
+                0x0000000080014c48                Stage_NextLoad
+ .text.Stage_Tick
+                0x0000000080014d24     0x19e8 src/stage.o
+                0x0000000080014d24                Stage_Tick
+ .text.Back_Week1_DrawBG
+                0x000000008001670c       0x80 src/stage/week1.o
+                0x000000008001670c                Back_Week1_DrawBG
+ .text.Back_Week1_Free
+                0x000000008001678c        0x8 src/stage/week1.o
+                0x000000008001678c                Back_Week1_Free
+ .text.Back_Week1_New
+                0x0000000080016794       0xc0 src/stage/week1.o
+                0x0000000080016794                Back_Week1_New
+ .text.Back_Week2_DrawBG
+                0x0000000080016854       0x80 src/stage/week2.o
+                0x0000000080016854                Back_Week2_DrawBG
+ .text.Back_Week2_Free
+                0x00000000800168d4        0x8 src/stage/week2.o
+                0x00000000800168d4                Back_Week2_Free
+ .text.Back_Week2_New
+                0x00000000800168dc       0x90 src/stage/week2.o
+                0x00000000800168dc                Back_Week2_New
+ .text.Back_Week3_DrawBG
+                0x000000008001696c       0x80 src/stage/week3.o
+                0x000000008001696c                Back_Week3_DrawBG
+ .text.Back_Week3_Free
+                0x00000000800169ec        0x8 src/stage/week3.o
+                0x00000000800169ec                Back_Week3_Free
+ .text.Back_Week3_New
+                0x00000000800169f4       0x90 src/stage/week3.o
+                0x00000000800169f4                Back_Week3_New
+ .text.Back_WeekChara_DrawBG
+                0x0000000080016a84       0x80 src/stage/weekchara.o
+                0x0000000080016a84                Back_WeekChara_DrawBG
+ .text.Back_WeekChara_Free
+                0x0000000080016b04        0x8 src/stage/weekchara.o
+                0x0000000080016b04                Back_WeekChara_Free
+ .text.Back_WeekChara_New
+                0x0000000080016b0c       0x90 src/stage/weekchara.o
+                0x0000000080016b0c                Back_WeekChara_New
+ .text.Back_WeekHell_DrawBG
+                0x0000000080016b9c       0x80 src/stage/weekhell.o
+                0x0000000080016b9c                Back_WeekHell_DrawBG
+ .text.Back_WeekHell_Free
+                0x0000000080016c1c        0x8 src/stage/weekhell.o
+                0x0000000080016c1c                Back_WeekHell_Free
+ .text.Back_WeekHell_New
+                0x0000000080016c24       0x90 src/stage/weekhell.o
+                0x0000000080016c24                Back_WeekHell_New
+ .text.Animatable_Init
+                0x0000000080016cb4        0x8 src/animation.o
+                0x0000000080016cb4                Animatable_Init
+ .text.Animatable_SetAnim
+                0x0000000080016cbc       0x40 src/animation.o
+                0x0000000080016cbc                Animatable_SetAnim
+ .text.Animatable_Animate
+                0x0000000080016cfc      0x138 src/animation.o
+                0x0000000080016cfc                Animatable_Animate
+ .text.Animatable_Ended
+                0x0000000080016e34        0xc src/animation.o
+                0x0000000080016e34                Animatable_Ended
+ .text.Character_Free
+                0x0000000080016e40       0x40 src/character.o
+                0x0000000080016e40                Character_Free
+ .text.Character_Init
+                0x0000000080016e80       0x14 src/character.o
+                0x0000000080016e80                Character_Init
+ .text.Character_Draw
+                0x0000000080016e94       0xa8 src/character.o
+                0x0000000080016e94                Character_Draw
+ .text.Character_CheckStartSing
+                0x0000000080016f3c       0x44 src/character.o
+                0x0000000080016f3c                Character_CheckStartSing
+ .text.Character_CheckEndSing
+                0x0000000080016f80       0x5c src/character.o
+                0x0000000080016f80                Character_CheckEndSing
+ .text.Char_BF_Tick
+                0x0000000080016fdc      0x4b4 src/character/bf.o
+                0x0000000080016fdc                Char_BF_Tick
+ .text.Char_BF_Free
+                0x0000000080017490       0x30 src/character/bf.o
+                0x0000000080017490                Char_BF_Free
+ .text.Char_BF_SetAnim
+                0x00000000800174c0       0xf4 src/character/bf.o
+                0x00000000800174c0                Char_BF_SetAnim
+ .text.Char_BF_SetFrame
+                0x00000000800175b4       0x60 src/character/bf.o
+                0x00000000800175b4                Char_BF_SetFrame
+ .text.Char_BF_New
+                0x0000000080017614      0x19c src/character/bf.o
+                0x0000000080017614                Char_BF_New
+ .text.Char_BFWeeb_Tick
+                0x00000000800177b0      0x4b4 src/character/bfweeb.o
+                0x00000000800177b0                Char_BFWeeb_Tick
+ .text.Char_BFWeeb_Free
+                0x0000000080017c64       0x30 src/character/bfweeb.o
+                0x0000000080017c64                Char_BFWeeb_Free
+ .text.Char_BFWeeb_SetAnim
+                0x0000000080017c94       0xf4 src/character/bfweeb.o
+                0x0000000080017c94                Char_BFWeeb_SetAnim
+ .text.Char_BFWeeb_SetFrame
+                0x0000000080017d88       0x60 src/character/bfweeb.o
+                0x0000000080017d88                Char_BFWeeb_SetFrame
+ .text.Char_BFWeeb_New
+                0x0000000080017de8      0x1a0 src/character/bfweeb.o
+                0x0000000080017de8                Char_BFWeeb_New
+ .text.Char_GF_Tick
+                0x0000000080017f88       0xd4 src/character/gf.o
+                0x0000000080017f88                Char_GF_Tick
+ .text.Char_GF_SetAnim
+                0x000000008001805c        0x8 src/character/gf.o
+                0x000000008001805c                Char_GF_SetAnim
+ .text.Char_GF_Free
+                0x0000000080018064        0xc src/character/gf.o
+                0x0000000080018064                Char_GF_Free
+ .text.Char_GF_SetFrame
+                0x0000000080018070       0x60 src/character/gf.o
+                0x0000000080018070                Char_GF_SetFrame
+ .text.Char_GF_New
+                0x00000000800180d0      0x134 src/character/gf.o
+                0x00000000800180d0                Char_GF_New
+ .text.Speaker_Init
+                0x0000000080018204       0x3c src/character/speaker.o
+                0x0000000080018204                Speaker_Init
+ .text.Speaker_Bump
+                0x0000000080018240        0xc src/character/speaker.o
+                0x0000000080018240                Speaker_Bump
+ .text.Speaker_Tick
+                0x000000008001824c      0x148 src/character/speaker.o
+                0x000000008001824c                Speaker_Tick
+ .text.Char_Dad_Tick
+                0x0000000080018394       0xe4 src/character/dad.o
+                0x0000000080018394                Char_Dad_Tick
+ .text.Char_Dad_SetAnim
+                0x0000000080018478       0x2c src/character/dad.o
+                0x0000000080018478                Char_Dad_SetAnim
+ .text.Char_Dad_Free
+                0x00000000800184a4        0xc src/character/dad.o
+                0x00000000800184a4                Char_Dad_Free
+ .text.Char_Dad_SetFrame
+                0x00000000800184b0       0x60 src/character/dad.o
+                0x00000000800184b0                Char_Dad_SetFrame
+ .text.Char_Dad_New
+                0x0000000080018510      0x12c src/character/dad.o
+                0x0000000080018510                Char_Dad_New
+ .text.Char_Spook_Tick
+                0x000000008001863c       0xe4 src/character/spook.o
+                0x000000008001863c                Char_Spook_Tick
+ .text.Char_Spook_SetAnim
+                0x0000000080018720       0x44 src/character/spook.o
+                0x0000000080018720                Char_Spook_SetAnim
+ .text.Char_Spook_Free
+                0x0000000080018764        0xc src/character/spook.o
+                0x0000000080018764                Char_Spook_Free
+ .text.Char_Spook_SetFrame
+                0x0000000080018770       0x60 src/character/spook.o
+                0x0000000080018770                Char_Spook_SetFrame
+ .text.Char_Spook_New
+                0x00000000800187d0      0x12c src/character/spook.o
+                0x00000000800187d0                Char_Spook_New
+ .text.Char_Pico_Tick
+                0x00000000800188fc       0xe4 src/character/pico.o
+                0x00000000800188fc                Char_Pico_Tick
+ .text.Char_Pico_SetAnim
+                0x00000000800189e0       0x2c src/character/pico.o
+                0x00000000800189e0                Char_Pico_SetAnim
+ .text.Char_Pico_Free
+                0x0000000080018a0c        0xc src/character/pico.o
+                0x0000000080018a0c                Char_Pico_Free
+ .text.Char_Pico_SetFrame
+                0x0000000080018a18       0x60 src/character/pico.o
+                0x0000000080018a18                Char_Pico_SetFrame
+ .text.Char_Pico_New
+                0x0000000080018a78      0x12c src/character/pico.o
+                0x0000000080018a78                Char_Pico_New
+ .text.Char_Mom_Tick
+                0x0000000080018ba4       0xe4 src/character/mom.o
+                0x0000000080018ba4                Char_Mom_Tick
+ .text.Char_Mom_SetAnim
+                0x0000000080018c88       0x2c src/character/mom.o
+                0x0000000080018c88                Char_Mom_SetAnim
+ .text.Char_Mom_Free
+                0x0000000080018cb4        0xc src/character/mom.o
+                0x0000000080018cb4                Char_Mom_Free
+ .text.Char_Mom_SetFrame
+                0x0000000080018cc0       0x60 src/character/mom.o
+                0x0000000080018cc0                Char_Mom_SetFrame
+ .text.Char_Mom_New
+                0x0000000080018d20      0x12c src/character/mom.o
+                0x0000000080018d20                Char_Mom_New
+ .text.Char_Senpai_Tick
+                0x0000000080018e4c       0xe4 src/character/senpai.o
+                0x0000000080018e4c                Char_Senpai_Tick
+ .text.Char_Senpai_SetAnim
+                0x0000000080018f30       0x2c src/character/senpai.o
+                0x0000000080018f30                Char_Senpai_SetAnim
+ .text.Char_Senpai_Free
+                0x0000000080018f5c        0xc src/character/senpai.o
+                0x0000000080018f5c                Char_Senpai_Free
+ .text.Char_Senpai_SetFrame
+                0x0000000080018f68       0x60 src/character/senpai.o
+                0x0000000080018f68                Char_Senpai_SetFrame
+ .text.Char_Senpai_New
+                0x0000000080018fc8      0x12c src/character/senpai.o
+                0x0000000080018fc8                Char_Senpai_New
+ .text.Char_CHARA_Tick
+                0x00000000800190f4       0xe4 src/character/chara.o
+                0x00000000800190f4                Char_CHARA_Tick
+ .text.Char_CHARA_SetAnim
+                0x00000000800191d8       0x2c src/character/chara.o
+                0x00000000800191d8                Char_CHARA_SetAnim
+ .text.Char_CHARA_Free
+                0x0000000080019204        0xc src/character/chara.o
+                0x0000000080019204                Char_CHARA_Free
+ .text.Char_CHARA_SetFrame
+                0x0000000080019210       0x60 src/character/chara.o
+                0x0000000080019210                Char_CHARA_SetFrame
+ .text.Char_CHARA_New
+                0x0000000080019270      0x12c src/character/chara.o
+                0x0000000080019270                Char_CHARA_New
+ .text.Char_DustPico_Tick
+                0x000000008001939c      0x384 src/character/dustpico.o
+                0x000000008001939c                Char_DustPico_Tick
+ .text.Char_DustPico_Free
+                0x0000000080019720       0x30 src/character/dustpico.o
+                0x0000000080019720                Char_DustPico_Free
+ .text.Char_DustPico_SetAnim
+                0x0000000080019750       0xf4 src/character/dustpico.o
+                0x0000000080019750                Char_DustPico_SetAnim
+ .text.Char_DustPico_SetFrame
+                0x0000000080019844       0x60 src/character/dustpico.o
+                0x0000000080019844                Char_DustPico_SetFrame
+ .text.Char_DustPico_New
+                0x00000000800198a4      0x19c src/character/dustpico.o
+                0x00000000800198a4                Char_DustPico_New
+ .text.ObjectList_Add
+                0x0000000080019a40       0x20 src/object.o
+                0x0000000080019a40                ObjectList_Add
+ .text.ObjectList_Remove
+                0x0000000080019a60       0x68 src/object.o
+                0x0000000080019a60                ObjectList_Remove
+ .text.ObjectList_Tick
+                0x0000000080019ac8       0x64 src/object.o
+                0x0000000080019ac8                ObjectList_Tick
+ .text.ObjectList_Free
+                0x0000000080019b2c       0x64 src/object.o
+                0x0000000080019b2c                ObjectList_Free
+ .text.Obj_Combo_Free
+                0x0000000080019b90        0x8 src/object/combo.o
+                0x0000000080019b90                Obj_Combo_Free
+ .text.Obj_Combo_Tick
+                0x0000000080019b98      0x47c src/object/combo.o
+                0x0000000080019b98                Obj_Combo_Tick
+ .text.Obj_Combo_New
+                0x000000008001a014      0x1e0 src/object/combo.o
+                0x000000008001a014                Obj_Combo_New
+ *fill*         0x000000008001a1f4        0x4 
+ .text          0x000000008001a1f8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a36.o)
+                0x000000008001a1f8                EnterCriticalSection
+ .text          0x000000008001a208       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a37.o)
+                0x000000008001a208                ExitCriticalSection
+ .text          0x000000008001a218       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a91.o)
+                0x000000008001a218                ChangeClearPAD
+ .text          0x000000008001a228      0x170 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(counter.o)
+                0x000000008001a228                SetRCnt
+                0x000000008001a2c4                GetRCnt
+                0x000000008001a2fc                StartRCnt
+                0x000000008001a32c                StopRCnt
+                0x000000008001a360                ResetRCnt
+ .text          0x000000008001a398       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l10.o)
+                0x000000008001a398                ChangeClearRCnt
+ .text          0x000000008001a3a8      0x290 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o)
+                0x000000008001a3a8                SetInitPadFlag
+                0x000000008001a3b4                ReadInitPadFlag
+                0x000000008001a3c4                PAD_init
+                0x000000008001a454                InitPAD
+                0x000000008001a4e4                StartPAD
+ .text          0x000000008001a638       0xa0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(patch.o)
+                0x000000008001a638                EnablePAD
+                0x000000008001a64c                DisablePAD
+                0x000000008001a660                _patch_pad
+ .text          0x000000008001a6d8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a18.o)
+                0x000000008001a6d8                InitPAD2
+ .text          0x000000008001a6e8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a19.o)
+                0x000000008001a6e8                StartPAD2
+ .text          0x000000008001a6f8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a21.o)
+                0x000000008001a6f8                PAD_init2
+ .text          0x000000008001a708       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c68.o)
+                0x000000008001a708                FlushCache
+ .text          0x000000008001a718       0x70 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(chclrpad.o)
+                0x000000008001a718                _remove_ChgclrPAD
+ .text          0x000000008001a788       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l02.o)
+                0x000000008001a788                SysEnqIntRP
+ .text          0x000000008001a798       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l03.o)
+                0x000000008001a798                SysDeqIntRP
+ .text          0x000000008001a7a8       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memcpy.o)
+                0x000000008001a7a8                memcpy
+ .text          0x000000008001a7e8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memset.o)
+                0x000000008001a7e8                memset
+ .text          0x000000008001a818       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(printf.o)
+                0x000000008001a818                printf
+ .text          0x000000008001a858      0x6a0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o)
+                0x000000008001a858                prnt
+ .text          0x000000008001aef8      0x260 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o)
+                0x000000008001aef8                _putchar
+                0x000000008001aff4                _putchar_flash
+                0x000000008001b030                putchar
+ .text          0x000000008001b158      0x880 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o)
+                0x000000008001b158                sprintf
+ .text          0x000000008001b9d8       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcpy.o)
+                0x000000008001b9d8                strcpy
+ .text          0x000000008001ba28       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strlen.o)
+                0x000000008001ba28                strlen
+ .text          0x000000008001ba68       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strncmp.o)
+                0x000000008001ba68                strncmp
+ .text          0x000000008001bae8       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memchr.o)
+                0x000000008001bae8                memchr
+ .text          0x000000008001bb38       0x70 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memmove.o)
+                0x000000008001bb38                memmove
+ .text          0x000000008001bba8      0x9a0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o)
+                0x000000008001c108                CdReadBreak
+                0x000000008001c2a8                CdRead
+                0x000000008001c444                CdReadSync
+ .text          0x000000008001c548      0x150 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o)
+                0x000000008001c548                CdInit
+ .text          0x000000008001c698      0x970 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+                0x000000008001c698                CdSearchFile
+ .text          0x000000008001d008      0x110 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_002.o)
+                0x000000008001d008                CdIntToPos
+ .text          0x000000008001d118       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_003.o)
+                0x000000008001d118                CdStatus
+ .text          0x000000008001d128       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_004.o)
+                0x000000008001d128                CdMode
+ .text          0x000000008001d138       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_006.o)
+                0x000000008001d138                CdLastPos
+ .text          0x000000008001d148       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_008.o)
+                0x000000008001d148                CdFlush
+ .text          0x000000008001d168       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_013.o)
+                0x000000008001d168                CdReady
+ .text          0x000000008001d188       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_014.o)
+                0x000000008001d188                CdSyncCallback
+ .text          0x000000008001d1a8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_015.o)
+                0x000000008001d1a8                CdReadyCallback
+ .text          0x000000008001d1c8      0x3c0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_016.o)
+                0x000000008001d1c8                CdControl
+                0x000000008001d304                CdControlF
+                0x000000008001d438                CdControlB
+ .text          0x000000008001d588       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_020.o)
+                0x000000008001d588                CdMix
+ .text          0x000000008001d5a8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_021.o)
+                0x000000008001d5a8                CdGetSector
+ .text          0x000000008001d5c8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_022.o)
+                0x000000008001d5c8                CdGetSector2
+ .text          0x000000008001d5e8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_023.o)
+                0x000000008001d5e8                CdDataCallback
+ .text          0x000000008001d618       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_024.o)
+                0x000000008001d618                CdDataSync
+ .text          0x000000008001d638       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(sys.o)
+                0x000000008001d638                CdPosToInt
+ .text          0x000000008001d6b8     0x1580 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+                0x000000008001dc1c                CD_sync
+                0x000000008001de9c                CD_ready
+                0x000000008001e164                CD_cw
+                0x000000008001e570                CD_vol
+                0x000000008001e5f8                CD_flush
+                0x000000008001e6cc                CD_initvol
+                0x000000008001e7bc                CD_initintr
+                0x000000008001e808                CD_init
+                0x000000008001e9e8                CD_datasync
+                0x000000008001eb50                CD_set_test_parmnum
+ .text          0x000000008001ec38      0x100 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_2.o)
+                0x000000008001ec38                CD_getsector
+ .text          0x000000008001ed38       0xf0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_3.o)
+                0x000000008001ed38                CD_getsector2
+ .text          0x000000008001ee28      0x6c0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o)
+                0x000000008001ee28                ResetCallback
+                0x000000008001ee58                InterruptCallback
+                0x000000008001ee88                DMACallback
+                0x000000008001eeb8                VSyncCallback
+                0x000000008001eeec                VSyncCallbacks
+                0x000000008001ef1c                StopCallback
+                0x000000008001ef4c                RestartCallback
+                0x000000008001ef7c                CheckCallback
+                0x000000008001ef8c                GetIntrMask
+                0x000000008001efa4                SetIntrMask
+ .text          0x000000008001f4e8      0x2a0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_dma.o)
+                0x000000008001f4e8                startIntrDMA
+ .text          0x000000008001f788      0x120 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_vb.o)
+                0x000000008001f788                startIntrVSync
+ .text          0x000000008001f8a8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vmode.o)
+                0x000000008001f8a8                SetVideoMode
+                0x000000008001f8bc                GetVideoMode
+ .text          0x000000008001f8d8      0x210 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vsync.o)
+                0x000000008001f8d8                VSync
+ .text          0x000000008001fae8       0xc0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e03.o)
+                0x000000008001fae8                SetDefDrawEnv
+ .text          0x000000008001fba8       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e04.o)
+                0x000000008001fba8                SetDefDispEnv
+ .text          0x000000008001fbe8      0xa80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+                0x000000008001fbe8                SetDumpFnt
+                0x000000008001fc28                FntLoad
+                0x000000008001fcc8                FntOpen
+                0x000000008001ff84                FntFlush
+                0x00000000800202a0                FntPrint
+ .text          0x0000000080020668       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p06.o)
+                0x0000000080020668                AddPrim
+ .text          0x00000000800206a8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p09.o)
+                0x00000000800206a8                TermPrim
+ .text          0x00000000800206c8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p10.o)
+                0x00000000800206c8                SetSemiTrans
+ .text          0x00000000800206f8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p20.o)
+                0x00000000800206f8                SetSprt8
+ .text          0x0000000080020718       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p26.o)
+                0x0000000080020718                SetTile
+ .text          0x0000000080020738       0xa0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p41.o)
+                0x0000000080020738                SetDrawMode
+ .text          0x00000000800207d8     0x2f00 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+                0x00000000800207d8                ResetGraph
+                0x000000008002094c                SetGraphDebug
+                0x00000000800209a8                SetGraphQueue
+                0x0000000080020a4c                GetGraphDebug
+                0x0000000080020a5c                DrawSyncCallback
+                0x0000000080020abc                SetDispMask
+                0x0000000080020b54                DrawSync
+                0x0000000080020cd8                ClearImage
+                0x0000000080020d68                ClearImage2
+                0x0000000080020e00                LoadImage
+                0x0000000080020e60                StoreImage
+                0x0000000080020ec0                MoveImage
+                0x0000000080020f78                ClearOTag
+                0x0000000080021040                ClearOTagR
+                0x00000000800210ec                DrawPrim
+                0x0000000080021148                DrawOTag
+                0x00000000800211b8                PutDrawEnv
+                0x0000000080021278                DrawOTagEnv
+                0x0000000080021350                GetDrawEnv
+                0x0000000080021384                PutDispEnv
+                0x000000008002187c                GetDispEnv
+                0x00000000800218b0                GetODE
+                0x00000000800218e0                SetDrawArea
+                0x0000000080021960                SetDrawOffset
+                0x00000000800219a0                SetDrawEnv
+                0x0000000080023270                LoadImage2
+                0x000000008002335c                StoreImage2
+                0x0000000080023448                MoveImage2
+                0x000000008002358c                DrawOTag2
+                0x0000000080023688                _GPU_ResetCallback
+ .text          0x00000000800236d8      0x190 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(t00.o)
+                0x00000000800236d8                OpenTIM
+                0x00000000800236e8                ReadTIM
+ .text          0x0000000080023868       0xf0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e00.o)
+                0x0000000080023868                LoadTPage
+ .text          0x0000000080023958       0x70 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e02.o)
+                0x0000000080023958                LoadClut2
+ .text          0x00000000800239c8       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p00.o)
+                0x00000000800239c8                GetTPage
+ .text          0x0000000080023a08       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p01.o)
+                0x0000000080023a08                GetClut
+ .text          0x0000000080023a28       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o)
+                0x0000000080023a28                SsInit
+ .text          0x0000000080023a68      0x110 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sssv.o)
+                0x0000000080023a68                SsSetSerialVol
+ .text          0x0000000080023b78      0x150 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sstick.o)
+                0x0000000080023b78                SsSetTickMode
+ .text          0x0000000080023cc8       0xa0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x0000000080023cc8                _SsInit
+ .text          0x0000000080023d68      0x350 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o)
+                0x0000000080023d68                _SsVmInit
+ .text          0x00000000800240b8       0xc0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_nowof.o)
+                0x00000000800240b8                _SsVmKeyOffNow
+ .text          0x0000000080024178      0x270 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o)
+                0x0000000080024178                SsSeqCalledTbyT
+ .text          0x00000000800243e8      0x1e0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstop.o)
+                0x00000000800243e8                _SsSndStop
+                0x0000000080024568                SsSeqStop
+                0x0000000080024590                SsSepStop
+ .text          0x00000000800245c8      0x220 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(tempo.o)
+                0x00000000800245c8                _SsSndTempo
+ .text          0x00000000800247e8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_doff.o)
+                0x00000000800247e8                _SsVmDamperOff
+ .text          0x00000000800247f8      0x4d0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o)
+                0x00000000800247f8                _SsVmFlush
+ .text          0x0000000080024cc8      0x680 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_seq.o)
+                0x0000000080024cc8                _SsVmSetSeqVol
+                0x0000000080025234                _SsVmGetSeqVol
+                0x0000000080025298                _SsVmSeqKeyOff
+ .text          0x0000000080025348       0xc0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_vsu.o)
+                0x0000000080025348                _SsVmVSetUp
+ .text          0x0000000080025408      0x210 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(cres.o)
+                0x0000000080025408                _SsSndCrescendo
+ .text          0x0000000080025618       0xa0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(pause.o)
+                0x0000000080025618                _SsSndPause
+ .text          0x00000000800256b8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(play.o)
+                0x00000000800256b8                _SsSndPlay
+ .text          0x00000000800256e8       0x60 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(replay.o)
+                0x00000000800256e8                _SsSndReplay
+ .text          0x0000000080025748      0x6f0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(midiread.o)
+                0x0000000080025748                _SsSeqPlay
+                0x0000000080025844                _SsSeqGetEof
+                0x0000000080025a88                _SsGetSeqData
+ .text          0x0000000080025e38       0xb0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(miditime.o)
+                0x0000000080025e38                _SsReadDeltaValue
+ .text          0x0000000080025ee8      0x100 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(next.o)
+                0x0000000080025ee8                _SsSndNextSep
+ .text          0x0000000080025fe8      0x1a0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o)
+                0x0000000080025fe8                SpuClearReverbWorkArea
+ .text          0x0000000080026188       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gnv.o)
+                0x0000000080026188                SpuGetNoiseVoice
+ .text          0x00000000800261b8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_grv.o)
+                0x00000000800261b8                SpuGetReverbVoice
+ .text          0x00000000800261e8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gvex.o)
+                0x00000000800261e8                SpuGetVoiceEnvelope
+ .text          0x0000000080026208       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_i.o)
+                0x0000000080026208                SpuInit
+ .text          0x0000000080026228      0x160 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o)
+                0x0000000080026228                _SpuInit
+                0x0000000080026310                SpuStart
+ .text          0x0000000080026388       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_it.o)
+                0x0000000080026388                _spu_setInTransfer
+                0x00000000800263b0                _spu_getInTransfer
+ .text          0x00000000800263c8       0x60 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_init.o)
+                0x00000000800263c8                SpuInitMalloc
+ .text          0x0000000080026428      0x110 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_util.o)
+                0x0000000080026428                _SpuIsInAllocateArea
+                0x00000000800264a8                _SpuIsInAllocateArea_
+ .text          0x0000000080026538      0x380 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sca.o)
+                0x0000000080026538                SpuSetCommonAttr
+ .text          0x00000000800268b8      0x1c0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sk.o)
+                0x00000000800268b8                SpuSetKey
+ .text          0x0000000080026a78       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_snv.o)
+                0x0000000080026a78                SpuSetNoiseVoice
+ .text          0x0000000080026aa8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_srv.o)
+                0x0000000080026aa8                SpuSetReverbVoice
+ .text          0x0000000080026ad8      0x600 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o)
+                0x0000000080026ad8                SpuSetVoiceAttr
+ .text          0x00000000800270d8      0xb40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+                0x00000000800270d8                _spu_init
+                0x0000000080027518                _spu_FiDMA
+                0x00000000800275d4                _spu_Fr_
+                0x000000008002767c                _spu_t
+                0x00000000800278fc                _spu_Fw
+                0x0000000080027980                _spu_Fr
+                0x00000000800279e4                _spu_FsetRXX
+                0x0000000080027a28                _spu_FsetRXXa
+                0x0000000080027acc                _spu_FgetRXXa
+                0x0000000080027b08                _spu_FsetPCR
+                0x0000000080027bb0                _spu_Fw1ts
+ .text          0x0000000080027c18       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_dcb.o)
+                0x0000000080027c18                _SpuDataCallback
+ .text          0x0000000080027c48       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gav.o)
+                0x0000000080027c48                _SpuGetAnyVoice
+ .text          0x0000000080027c78      0x200 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_n2p.o)
+                0x0000000080027c78                _spu_note2pitch
+                0x0000000080027d48                _spu_pitch2note
+ .text          0x0000000080027e78      0x2c0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sav.o)
+                0x0000000080027e78                _SpuSetAnyVoice
+ .text          0x0000000080028138       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a07.o)
+                0x0000000080028138                DeliverEvent
+ .text          0x0000000080028148       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a08.o)
+                0x0000000080028148                OpenEvent
+ .text          0x0000000080028158       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a10.o)
+                0x0000000080028158                WaitEvent
+ .text          0x0000000080028168       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a12.o)
+                0x0000000080028168                EnableEvent
+ .text          0x0000000080028178       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a23.o)
+                0x0000000080028178                ReturnFromException
+ .text          0x0000000080028188       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a24.o)
+                0x0000000080028188                ResetEntryInt
+ .text          0x0000000080028198       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a25.o)
+                0x0000000080028198                HookEntryInt
+ .text          0x00000000800281a8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a53.o)
+                0x00000000800281a8                write
+ .text          0x00000000800281b8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c114.o)
+                0x00000000800281c0                _96_remove
+ .text          0x00000000800281d8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c73.o)
+                0x00000000800281d8                GPU_cw
+ .text          0x00000000800281e8       0x60 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(puts.o)
+                0x00000000800281e8                puts
+ .text          0x0000000080028248       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(setjmp.o)
+                0x0000000080028248                setjmp
+                0x0000000080028284                longjmp
+ .text          0x00000000800282c8       0x70 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcmp.o)
+                0x00000000800282c8                strcmp
+                0x0000000080028340                . = ALIGN (0x10)
+ *fill*         0x0000000080028338        0x8 
+ *(.init)
+                0x0000000080028340                . = ALIGN (0x10)
+ *(.fini)
+                0x0000000080028340                . = ALIGN (0x10)
+                0x0000000080028340                __text_end = .
+                0x0000000080028340                __ftext_end = ABSOLUTE (.)
+                0x0000000080028340                __fdata_start = ABSOLUTE (.)
+
+.rodata         0x0000000080028340     0x39d0
+ *(.rodata .rodata.* .rdata .rdata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000080028340       0x23 src/main.o
+ *fill*         0x0000000080028363        0x1 
+ .rodata        0x0000000080028364      0x280 src/mutil.o
+ .rodata        0x00000000800285e4       0x10 src/timer.o
+ .rodata.str1.4
+                0x00000000800285f4       0xa4 src/io.o
+ .rodata.str1.4
+                0x0000000080028698       0x1b src/gfx.o
+ *fill*         0x00000000800286b3        0x1 
+ .rodata.str1.4
+                0x00000000800286b4       0xb3 src/audio.o
+ *fill*         0x0000000080028767        0x1 
+ .rodata        0x0000000080028768       0xa4 src/audio.o
+ .rodata.str1.4
+                0x000000008002880c       0x27 src/archive.o
+ *fill*         0x0000000080028833        0x1 
+ .rodata.str1.4
+                0x0000000080028834       0x15 src/font.o
+ *fill*         0x0000000080028849        0x3 
+ .rodata.str1.4
+                0x000000008002884c       0x14 src/loadscr.o
+ .rodata        0x0000000080028860       0x10 src/loadscr.o
+ .rodata.str1.4
+                0x0000000080028870      0x313 src/menu.o
+                                        0x323 (size before relaxing)
+ *fill*         0x0000000080028b83        0x1 
+ .rodata        0x0000000080028b84      0x344 src/menu.o
+ .rodata.str1.4
+                0x0000000080028ec8       0xa6 src/stage.o
+ *fill*         0x0000000080028f6e        0x2 
+ .rodata        0x0000000080028f70      0x8b4 src/stage.o
+ .rodata        0x0000000080029824        0x8 src/stage/week1.o
+ .rodata.str1.4
+                0x000000008002982c       0x2a src/stage/week1.o
+ *fill*         0x0000000080029856        0x2 
+ .rodata        0x0000000080029858        0x8 src/stage/week2.o
+ .rodata.str1.4
+                0x0000000080029860       0x12 src/stage/week2.o
+                                         0x1e (size before relaxing)
+ *fill*         0x0000000080029872        0x2 
+ .rodata        0x0000000080029874        0x8 src/stage/week3.o
+ .rodata.str1.4
+                0x000000008002987c       0x12 src/stage/week3.o
+                                         0x1e (size before relaxing)
+ *fill*         0x000000008002988e        0x2 
+ .rodata        0x0000000080029890        0x8 src/stage/weekchara.o
+ .rodata.str1.4
+                0x0000000080029898       0x16 src/stage/weekchara.o
+                                         0x22 (size before relaxing)
+ *fill*         0x00000000800298ae        0x2 
+ .rodata        0x00000000800298b0        0x8 src/stage/weekhell.o
+ .rodata.str1.4
+                0x00000000800298b8       0x15 src/stage/weekhell.o
+                                         0x22 (size before relaxing)
+ *fill*         0x00000000800298cd        0x3 
+ .rodata        0x00000000800298d0      0x342 src/character/bf.o
+ *fill*         0x0000000080029c12        0x2 
+ .rodata.str1.4
+                0x0000000080029c14       0xce src/character/bf.o
+ *fill*         0x0000000080029ce2        0x2 
+ .rodata        0x0000000080029ce4      0x37e src/character/bfweeb.o
+ *fill*         0x000000008002a062        0x2 
+ .rodata.str1.4
+                0x000000008002a064       0x64 src/character/bfweeb.o
+                                         0xe4 (size before relaxing)
+ .rodata.str1.4
+                0x000000008002a0c8       0x60 src/character/gf.o
+ .rodata        0x000000008002a128      0x150 src/character/gf.o
+ .rodata.str1.4
+                0x000000008002a278       0x14 src/character/speaker.o
+ .rodata        0x000000008002a28c       0x30 src/character/speaker.o
+ .rodata.str1.4
+                0x000000008002a2bc       0x8e src/character/dad.o
+ *fill*         0x000000008002a34a        0x2 
+ .rodata        0x000000008002a34c      0x138 src/character/dad.o
+ .rodata.str1.4
+                0x000000008002a484       0x46 src/character/spook.o
+                                         0x96 (size before relaxing)
+ *fill*         0x000000008002a4ca        0x2 
+ .rodata        0x000000008002a4cc      0x138 src/character/spook.o
+ .rodata.str1.4
+                0x000000008002a604       0x41 src/character/pico.o
+                                         0x92 (size before relaxing)
+ *fill*         0x000000008002a645        0x3 
+ .rodata        0x000000008002a648      0x138 src/character/pico.o
+ .rodata.str1.4
+                0x000000008002a780       0x40 src/character/mom.o
+                                         0x8e (size before relaxing)
+ .rodata        0x000000008002a7c0      0x138 src/character/mom.o
+ .rodata.str1.4
+                0x000000008002a8f8       0xab src/character/senpai.o
+                                         0xcf (size before relaxing)
+ *fill*         0x000000008002a9a3        0x1 
+ .rodata        0x000000008002a9a4      0x14c src/character/senpai.o
+ .rodata.str1.4
+                0x000000008002aaf0       0x6b src/character/chara.o
+                                         0xb3 (size before relaxing)
+ *fill*         0x000000008002ab5b        0x1 
+ .rodata        0x000000008002ab5c      0x1a6 src/character/chara.o
+ *fill*         0x000000008002ad02        0x2 
+ .rodata        0x000000008002ad04      0x332 src/character/dustpico.o
+ *fill*         0x000000008002b036        0x2 
+ .rodata.str1.4
+                0x000000008002b038       0x4d src/character/dustpico.o
+                                         0x96 (size before relaxing)
+ *fill*         0x000000008002b085        0x3 
+ .rodata        0x000000008002b088        0xa src/object/combo.o
+ *fill*         0x000000008002b092        0x2 
+ .rodata        0x000000008002b094       0x10 mips/common/crt0/crt0.o
+ *fill*         0x000000008002b0a4        0x4 
+ .rdata         0x000000008002b0a8      0x220 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o)
+ .rdata         0x000000008002b2c8       0xe0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o)
+ .rdata         0x000000008002b3a8       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o)
+ .rdata         0x000000008002b3f8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o)
+ .rdata         0x000000008002b418      0x1f0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+ .rdata         0x000000008002b608      0x260 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+ .rdata         0x000000008002b868       0x70 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o)
+ .rdata         0x000000008002b8d8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_dma.o)
+ .rdata         0x000000008002b908       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vsync.o)
+ .rdata         0x000000008002b918       0xa0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+ .rdata         0x000000008002b9b8      0x220 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+ .rdata         0x000000008002bbd8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(t00.o)
+ .rdata         0x000000008002bc08       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sstick.o)
+ .rdata         0x000000008002bc28       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sca.o)
+ .rdata         0x000000008002bc68       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o)
+ .rdata         0x000000008002bca8       0x50 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+ .rdata         0x000000008002bcf8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(puts.o)
+                0x000000008002bd10                . = ALIGN (0x10)
+ *fill*         0x000000008002bd08        0x8 
+                0x000000008002bd10                __preinit_array_start = .
+ *(.preinit_array)
+                0x000000008002bd10                __preinit_array_end = .
+                0x000000008002bd10                . = ALIGN (0x10)
+                0x000000008002bd10                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x000000008002bd10                . = ALIGN (0x10)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *crtend.o(.ctors)
+                0x000000008002bd10                __init_array_end = .
+                0x000000008002bd10                . = ALIGN (0x10)
+                0x000000008002bd10                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *crtend.o(.dtors)
+                0x000000008002bd10                __fini_array_end = .
+                0x000000008002bd10                __build_id = .
+ *(.note.gnu.build-id)
+                0x000000008002bd10                __build_id_end = .
+
+.rel.dyn        0x000000008002bd10        0x0
+ .rel.dyn       0x000000008002bd10        0x0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+
+.rodata1
+ *(.rodata1)
+                0x000000008002bd10                __data_start = .
+
+.data           0x000000008002bd10     0x32f0
+ *(.a0table)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000008002bd10       0x78 src/character/bf.o
+ .data          0x000000008002bd88       0x78 src/character/bfweeb.o
+ .data          0x000000008002be00       0x78 src/character/dustpico.o
+ .data          0x000000008002be78       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(counter.o)
+ .data          0x000000008002be98       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o)
+ .data          0x000000008002bea8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o)
+ .data          0x000000008002beb8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o)
+ .data          0x000000008002bec8       0x90 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(ctype_0.o)
+                0x000000008002bec8                _ctype_
+ .data          0x000000008002bf58       0x40 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o)
+ .data          0x000000008002bf98       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o)
+                0x000000008002bf98                CD_cbread
+                0x000000008002bf9c                CD_read_dma_mode
+ .data          0x000000008002bfa8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+ .data          0x000000008002bfb8       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_016.o)
+ .data          0x000000008002c038      0x310 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+                0x000000008002c040                CD_cbsync
+                0x000000008002c044                CD_cbready
+                0x000000008002c048                CD_debug
+                0x000000008002c04c                CD_status
+                0x000000008002c050                CD_status1
+                0x000000008002c054                CD_nopen
+                0x000000008002c058                CD_pos
+                0x000000008002c05c                CD_mode
+                0x000000008002c05d                CD_com
+                0x000000008002c060                DS_active
+                0x000000008002c064                CD_comstr
+                0x000000008002c0e4                CD_intstr
+ .data          0x000000008002c348       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_2.o)
+ .data          0x000000008002c368       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_3.o)
+ .data          0x000000008002c388     0x1100 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o)
+ .data          0x000000008002d488       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_dma.o)
+ .data          0x000000008002d4b8       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_vb.o)
+                0x000000008002d4d8                Vcount
+ .data          0x000000008002d4e8       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vmode.o)
+ .data          0x000000008002d4f8       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vsync.o)
+                0x000000008002d508                Hcount
+ .data          0x000000008002d518      0xb90 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+                0x000000008002d518                Font
+ .data          0x000000008002e0a8      0x1a0 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+                0x000000008002e0f4                GPU_printf
+                0x000000008002e0f8                GEnv
+                0x000000008002e220                _qin
+                0x000000008002e224                _qout
+ .data          0x000000008002e248       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x000000008002e248                _snd_vmask
+ .data          0x000000008002e278       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstart.o)
+                0x000000008002e278                _snd_seq_tick_env
+ .data          0x000000008002e298       0x80 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o)
+                0x000000008002e2a0                _spu_EVdma
+                0x000000008002e2a4                _spu_keystat
+                0x000000008002e2a8                _spu_trans_mode
+                0x000000008002e2ac                _spu_rev_flag
+                0x000000008002e2b0                _spu_rev_reserve_wa
+                0x000000008002e2b4                _spu_rev_offsetaddr
+                0x000000008002e2b8                _spu_rev_attr
+                0x000000008002e2cc                _spu_RQvoice
+                0x000000008002e2d0                _spu_RQmask
+                0x000000008002e2d4                _spu_voice_centerNote
+                0x000000008002e304                _spu_env
+                0x000000008002e308                _spu_isCalled
+ .data          0x000000008002e318       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m.o)
+                0x000000008002e318                _spu_AllocBlockNum
+                0x000000008002e31c                _spu_AllocLastNum
+                0x000000008002e320                _spu_memList
+ .data          0x000000008002e328       0x30 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_rmp0.o)
+                0x000000008002e328                _spu_rev_startaddr
+ .data          0x000000008002e358       0x60 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+                0x000000008002e358                _spu_RXX
+                0x000000008002e370                _spu_tsa
+                0x000000008002e374                _spu_transMode
+                0x000000008002e378                _spu_addrMode
+                0x000000008002e37c                _spu_mem_mode
+                0x000000008002e380                _spu_mem_mode_plus
+                0x000000008002e384                _spu_mem_mode_unit
+                0x000000008002e388                _spu_mem_mode_unitM
+                0x000000008002e38c                _spu_inTransfer
+                0x000000008002e390                _spu_transferCallback
+                0x000000008002e394                _spu_IRQCallback
+ .data          0x000000008002e3b8      0x400 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(zerobuf.o)
+                0x000000008002e3b8                _spu_zerobuf
+ .data          0x000000008002e7b8      0x120 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_n2p.o)
+ *(.data1)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+ *(.got.plt)
+ *(.got)
+                0x000000008002f000                . = ALIGN (0x800)
+ *fill*         0x000000008002e8d8      0x728 
+                0x000000008002f000                __data_end = .
+                0x000000008002f000                __fdata_end = .
+                0x000000008002f000                __bss_start = .
+
+.sbss           0x000000008002f000   0x119cec
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x000000008002f000        0x4 src/main.o
+                0x000000008002f000                gameloop
+ .sbss          0x000000008002f004        0xc src/mem.o
+ .sbss          0x000000008002f010       0x28 src/timer.o
+                0x000000008002f010                timer_brokeconf
+                0x000000008002f014                timer_secbase
+                0x000000008002f018                timer_dt
+                0x000000008002f01c                timer_sec
+                0x000000008002f020                timer_persec
+                0x000000008002f024                timer_countbase
+                0x000000008002f028                timer_lcount
+                0x000000008002f02c                timer_count
+                0x000000008002f030                animf_count
+                0x000000008002f034                frame_count
+ .sbss          0x000000008002f038        0x5 src/gfx.o
+ *fill*         0x000000008002f03d        0x3 
+ .sbss          0x000000008002f040       0x10 src/audio.o
+ .sbss          0x000000008002f050        0x4 src/random.o
+ .sbss          0x000000008002f054        0x8 src/trans.o
+ .sbss          0x000000008002f05c       0x18 src/menu.o
+                0x000000008002f05c                soulgoup
+                0x000000008002f060                soulspd
+                0x000000008002f064                soulposy
+                0x000000008002f068                menufade
+                0x000000008002f06c                beat
+                0x000000008002f070                titlebeat
+ .sbss          0x000000008002f074       0x5c src/stage.o
+                0x000000008002f074                darkeffectum
+                0x000000008002f078                jiggle
+                0x000000008002f07c                darkcount
+                0x000000008002f080                darkeffect
+                0x000000008002f084                charaknifeslash
+                0x000000008002f088                shake
+                0x000000008002f08c                arrowposy
+                0x000000008002f090                arrowposx
+                0x000000008002f094                attacked
+                0x000000008002f098                canattackcooldown
+                0x000000008002f09c                attackedcooldown
+                0x000000008002f0a0                attack
+                0x000000008002f0a4                timercount
+                0x000000008002f0a8                gasteractivate
+                0x000000008002f0ac                gasterposy
+                0x000000008002f0b0                gasterposx
+                0x000000008002f0b4                gasteranimcount
+                0x000000008002f0b8                gasteranim
+                0x000000008002f0bc                kr
+                0x000000008002f0c0                healthtypeenemy
+                0x000000008002f0c4                healthtype
+                0x000000008002f0c8                dusttime
+                0x000000008002f0cc                dusteffect
+ *(.scommon)
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000008002f0d0   0x100200 src/main.o
+                0x000000008002f0d0                malloc_heap
+                0x000000008012f0d0                error_msg
+ .bss           0x000000008012f2d0    0x10120 src/gfx.o
+ .bss           0x000000008013f3f0       0xd8 src/audio.o
+ .bss           0x000000008013f4c8       0x50 src/pad.o
+                0x000000008013f4c8                pad_state
+ .bss           0x000000008013f518      0x1c8 src/menu.o
+                0x000000008013f518                menu_text_buffer
+ .bss           0x000000008013f6e0      0x15c src/stage.o
+                0x000000008013f6e0                stage
+ *fill*         0x000000008013f83c        0x4 
+ .bss           0x000000008013f840       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o)
+                0x000000008013f840                _apiPadPatch
+ .bss           0x000000008013f850       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(patch.o)
+ .bss           0x000000008013f860       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(chclrpad.o)
+ .bss           0x000000008013f870       0x20 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o)
+ .bss           0x000000008013f890     0x2400 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+ .bss           0x0000000080141c90       0x34 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+                0x0000000080141cc0                StMode
+ *fill*         0x0000000080141cc4        0x4 
+ .bss           0x0000000080141cc8     0x4410 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+ .bss           0x00000000801460d8     0x1850 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+                0x0000000080146128                _que
+ .bss           0x0000000080147928       0x10 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(t00.o)
+ .bss           0x0000000080147938      0x93a D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o)
+                0x0000000080147938                _SsMarkCallback
+                0x0000000080148138                VBLANK_MINUS
+                0x0000000080148140                _snd_openflag
+                0x0000000080148148                _snd_ev_flag
+                0x0000000080148150                SsFCALL
+                0x00000000801481e8                _ss_score
+                0x0000000080148268                _snd_seq_s_max
+                0x0000000080148270                _snd_seq_t_max
+ *fill*         0x0000000080148272        0x6 
+ .bss           0x0000000080148278      0x110 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o)
+ .bss           0x0000000080148388      0x76a D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o)
+                0x0000000080148388                _svm_envx_ptr
+                0x0000000080148390                _svm_envx_hist
+                0x00000000801483d0                _svm_voice
+                0x0000000080148910                _svm_okof1
+                0x0000000080148918                _svm_okon1
+                0x0000000080148920                _svm_okof2
+                0x0000000080148928                _svm_okon2
+                0x0000000080148930                _autovol
+                0x0000000080148938                _autopan
+                0x0000000080148940                _svm_sreg_dirty
+                0x0000000080148958                _svm_sreg_buf
+                0x0000000080148ad8                _svm_orev2
+                0x0000000080148ae0                _svm_orev1
+                0x0000000080148ae8                _svm_onos2
+                0x0000000080148af0                _svm_onos1
+ *fill*         0x0000000080148af2        0x6 
+ .bss           0x0000000080148af8      0x1dc D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_g.o)
+                0x0000000080148af8                _svm_stereo_mono
+                0x0000000080148b00                _svm_vab_not_send_size
+                0x0000000080148b08                _svm_rattr
+                0x0000000080148b20                _svm_vab_used
+                0x0000000080148b30                _SsVmMaxVoice
+                0x0000000080148b38                _svm_vab_count
+                0x0000000080148b40                kMaxPrograms
+                0x0000000080148b48                _svm_cur
+                0x0000000080148b68                _svm_damper
+                0x0000000080148b70                _svm_auto_kof_mode
+                0x0000000080148b78                _svm_vab_vh
+                0x0000000080148bb8                _svm_vab_pg
+                0x0000000080148bf8                _svm_vab_tn
+                0x0000000080148c38                _svm_vab_start
+                0x0000000080148c78                _svm_vab_total
+                0x0000000080148cb8                _svm_vh
+                0x0000000080148cc0                _svm_pg
+                0x0000000080148cc8                _svm_tn
+                0x0000000080148cd0                _svm_vg
+ *fill*         0x0000000080148cd4        0x4 
+ .bss           0x0000000080148cd8       0x14 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+                0x0000000080148cd8                _spu_RQ
+ *(COMMON)
+                0x0000000080148cec                . = ALIGN (0x4)
+                0x0000000080148cec                __bss_end = .
+                0x0000000080148cec                __heap_start = __heap_base
+                0x000000008000f800                . = (ADDR (.text) - 0x800)
+                0x000000008000f800                __end = .
+
+/DISCARD/
+ *(.MIPS.abiflags)
+
+/DISCARD/
+ *(.rel.iplt)
+ *(.rela.iplt)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.plt)
+ *(.iplt)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(funkin.elf elf32-littlemips)
+
+.reginfo        0x0000000000000000       0x18
+ .reginfo       0x0000000000000000       0x18 src/main.o
+
+.mdebug.abi32   0x0000000000000000        0x0
+ .mdebug.abi32  0x0000000000000000        0x0 src/main.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/mem.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/mutil.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/timer.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/io.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/gfx.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/audio.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/pad.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/random.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/archive.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/font.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/trans.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/loadscr.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/menu.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week1.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week2.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/week3.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/weekchara.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/stage/weekhell.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/animation.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/bf.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/bfweeb.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/gf.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/speaker.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/dad.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/spook.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/pico.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/mom.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/senpai.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/chara.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/character/dustpico.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/object.o
+ .mdebug.abi32  0x0000000000000000        0x0 src/object/combo.o
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 src/main.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 src/mem.o
+ .comment       0x0000000000000012       0x13 src/mutil.o
+ .comment       0x0000000000000012       0x13 src/timer.o
+ .comment       0x0000000000000012       0x13 src/io.o
+ .comment       0x0000000000000012       0x13 src/gfx.o
+ .comment       0x0000000000000012       0x13 src/audio.o
+ .comment       0x0000000000000012       0x13 src/pad.o
+ .comment       0x0000000000000012       0x13 src/random.o
+ .comment       0x0000000000000012       0x13 src/archive.o
+ .comment       0x0000000000000012       0x13 src/font.o
+ .comment       0x0000000000000012       0x13 src/trans.o
+ .comment       0x0000000000000012       0x13 src/loadscr.o
+ .comment       0x0000000000000012       0x13 src/menu.o
+ .comment       0x0000000000000012       0x13 src/stage.o
+ .comment       0x0000000000000012       0x13 src/stage/week1.o
+ .comment       0x0000000000000012       0x13 src/stage/week2.o
+ .comment       0x0000000000000012       0x13 src/stage/week3.o
+ .comment       0x0000000000000012       0x13 src/stage/weekchara.o
+ .comment       0x0000000000000012       0x13 src/stage/weekhell.o
+ .comment       0x0000000000000012       0x13 src/animation.o
+ .comment       0x0000000000000012       0x13 src/character.o
+ .comment       0x0000000000000012       0x13 src/character/bf.o
+ .comment       0x0000000000000012       0x13 src/character/bfweeb.o
+ .comment       0x0000000000000012       0x13 src/character/gf.o
+ .comment       0x0000000000000012       0x13 src/character/speaker.o
+ .comment       0x0000000000000012       0x13 src/character/dad.o
+ .comment       0x0000000000000012       0x13 src/character/spook.o
+ .comment       0x0000000000000012       0x13 src/character/pico.o
+ .comment       0x0000000000000012       0x13 src/character/mom.o
+ .comment       0x0000000000000012       0x13 src/character/senpai.o
+ .comment       0x0000000000000012       0x13 src/character/chara.o
+ .comment       0x0000000000000012       0x13 src/character/dustpico.o
+ .comment       0x0000000000000012       0x13 src/object.o
+ .comment       0x0000000000000012       0x13 src/object/combo.o
+
+.gnu.attributes
+                0x0000000000000000       0x10
+ .gnu.attributes
+                0x0000000000000000       0x10 src/main.o
+ .gnu.attributes
+                0x0000000000000010       0x10 src/mem.o
+ .gnu.attributes
+                0x0000000000000020       0x10 src/mutil.o
+ .gnu.attributes
+                0x0000000000000030       0x10 src/timer.o
+ .gnu.attributes
+                0x0000000000000040       0x10 src/io.o
+ .gnu.attributes
+                0x0000000000000050       0x10 src/gfx.o
+ .gnu.attributes
+                0x0000000000000060       0x10 src/audio.o
+ .gnu.attributes
+                0x0000000000000070       0x10 src/pad.o
+ .gnu.attributes
+                0x0000000000000080       0x10 src/random.o
+ .gnu.attributes
+                0x0000000000000090       0x10 src/archive.o
+ .gnu.attributes
+                0x00000000000000a0       0x10 src/font.o
+ .gnu.attributes
+                0x00000000000000b0       0x10 src/trans.o
+ .gnu.attributes
+                0x00000000000000c0       0x10 src/loadscr.o
+ .gnu.attributes
+                0x00000000000000d0       0x10 src/menu.o
+ .gnu.attributes
+                0x00000000000000e0       0x10 src/stage.o
+ .gnu.attributes
+                0x00000000000000f0       0x10 src/stage/week1.o
+ .gnu.attributes
+                0x0000000000000100       0x10 src/stage/week2.o
+ .gnu.attributes
+                0x0000000000000110       0x10 src/stage/week3.o
+ .gnu.attributes
+                0x0000000000000120       0x10 src/stage/weekchara.o
+ .gnu.attributes
+                0x0000000000000130       0x10 src/stage/weekhell.o
+ .gnu.attributes
+                0x0000000000000140       0x10 src/animation.o
+ .gnu.attributes
+                0x0000000000000150       0x10 src/character.o
+ .gnu.attributes
+                0x0000000000000160       0x10 src/character/bf.o
+ .gnu.attributes
+                0x0000000000000170       0x10 src/character/bfweeb.o
+ .gnu.attributes
+                0x0000000000000180       0x10 src/character/gf.o
+ .gnu.attributes
+                0x0000000000000190       0x10 src/character/speaker.o
+ .gnu.attributes
+                0x00000000000001a0       0x10 src/character/dad.o
+ .gnu.attributes
+                0x00000000000001b0       0x10 src/character/spook.o
+ .gnu.attributes
+                0x00000000000001c0       0x10 src/character/pico.o
+ .gnu.attributes
+                0x00000000000001d0       0x10 src/character/mom.o
+ .gnu.attributes
+                0x00000000000001e0       0x10 src/character/senpai.o
+ .gnu.attributes
+                0x00000000000001f0       0x10 src/character/chara.o
+ .gnu.attributes
+                0x0000000000000200       0x10 src/character/dustpico.o
+ .gnu.attributes
+                0x0000000000000210       0x10 src/object.o
+ .gnu.attributes
+                0x0000000000000220       0x10 src/object/combo.o
+ .gnu.attributes
+                0x0000000000000230       0x10 mips/common/crt0/crt0.o
+
+.pdr            0x0000000000000000        0x0
+ .pdr           0x0000000000000000        0x0 mips/common/crt0/crt0.o
+
+.note           0x0000000000000000     0x40cc
+ .note          0x0000000000000000       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a36.o)
+ .note          0x0000000000000074       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a37.o)
+ .note          0x00000000000000e8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a91.o)
+ .note          0x000000000000015c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(counter.o)
+ .note          0x00000000000001d0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l10.o)
+ .note          0x0000000000000244       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(pad.o)
+ .note          0x00000000000002b8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(patch.o)
+ .note          0x000000000000032c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a18.o)
+ .note          0x00000000000003a0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a19.o)
+ .note          0x0000000000000414       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a21.o)
+ .note          0x0000000000000488       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c68.o)
+ .note          0x00000000000004fc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(chclrpad.o)
+ .note          0x0000000000000570       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l02.o)
+ .note          0x00000000000005e4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(l03.o)
+ .note          0x0000000000000658       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memcpy.o)
+ .note          0x00000000000006cc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memset.o)
+ .note          0x0000000000000740       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(printf.o)
+ .note          0x00000000000007b4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(prnt.o)
+ .note          0x0000000000000828       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(putchar.o)
+ .note          0x000000000000089c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(sprintf.o)
+ .note          0x0000000000000910       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcpy.o)
+ .note          0x0000000000000984       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strlen.o)
+ .note          0x00000000000009f8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strncmp.o)
+ .note          0x0000000000000a6c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(ctype_0.o)
+ .note          0x0000000000000ae0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memchr.o)
+ .note          0x0000000000000b54       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(memmove.o)
+ .note          0x0000000000000bc8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_003.o)
+ .note          0x0000000000000c3c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_005.o)
+ .note          0x0000000000000cb0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_007.o)
+ .note          0x0000000000000d24       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_009.o)
+ .note          0x0000000000000d98       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_010.o)
+ .note          0x0000000000000e0c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdr_1.o)
+ .note          0x0000000000000e80       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdread2.o)
+ .note          0x0000000000000ef4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(cdrom.o)
+ .note          0x0000000000000f68       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(event.o)
+ .note          0x0000000000000fdc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(iso9660.o)
+ .note          0x0000000000001050       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_002.o)
+ .note          0x00000000000010c4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_003.o)
+ .note          0x0000000000001138       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_004.o)
+ .note          0x00000000000011ac       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_006.o)
+ .note          0x0000000000001220       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_008.o)
+ .note          0x0000000000001294       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_013.o)
+ .note          0x0000000000001308       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_014.o)
+ .note          0x000000000000137c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_015.o)
+ .note          0x00000000000013f0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_016.o)
+ .note          0x0000000000001464       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_020.o)
+ .note          0x00000000000014d8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_021.o)
+ .note          0x000000000000154c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_022.o)
+ .note          0x00000000000015c0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_023.o)
+ .note          0x0000000000001634       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(s_024.o)
+ .note          0x00000000000016a8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(sys.o)
+ .note          0x000000000000171c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_1.o)
+ .note          0x0000000000001790       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_2.o)
+ .note          0x0000000000001804       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(bios_3.o)
+ .note          0x0000000000001878       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_002.o)
+ .note          0x00000000000018ec       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_004.o)
+ .note          0x0000000000001960       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_008.o)
+ .note          0x00000000000019d4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libcd.a(c_011.o)
+ .note          0x0000000000001a48       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_2.o)
+ .note          0x0000000000001abc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb_4.o)
+ .note          0x0000000000001b30       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libds.a(dscb.o)
+ .note          0x0000000000001ba4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr.o)
+ .note          0x0000000000001c18       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_dma.o)
+ .note          0x0000000000001c8c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(intr_vb.o)
+ .note          0x0000000000001d00       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(pad.o)
+ .note          0x0000000000001d74       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vmode.o)
+ .note          0x0000000000001de8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libetc.a(vsync.o)
+ .note          0x0000000000001e5c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e03.o)
+ .note          0x0000000000001ed0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e04.o)
+ .note          0x0000000000001f44       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(font.o)
+ .note          0x0000000000001fb8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p06.o)
+ .note          0x000000000000202c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p09.o)
+ .note          0x00000000000020a0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p10.o)
+ .note          0x0000000000002114       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p20.o)
+ .note          0x0000000000002188       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p26.o)
+ .note          0x00000000000021fc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p41.o)
+ .note          0x0000000000002270       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(sys.o)
+ .note          0x00000000000022e4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(t00.o)
+ .note          0x0000000000002358       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e00.o)
+ .note          0x00000000000023cc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(e02.o)
+ .note          0x0000000000002440       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p00.o)
+ .note          0x00000000000024b4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libgpu.a(p01.o)
+ .note          0x0000000000002528       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(libpress.o)
+ .note          0x000000000000259c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(vlc.o)
+ .note          0x0000000000002610       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libpress.a(table.o)
+ .note          0x0000000000002684       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit_c.o)
+ .note          0x00000000000026f8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sssv.o)
+ .note          0x000000000000276c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sstick.o)
+ .note          0x00000000000027e0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssinit.o)
+ .note          0x0000000000002854       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstart.o)
+ .note          0x00000000000028c8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_init.o)
+ .note          0x000000000000293c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_nowof.o)
+ .note          0x00000000000029b0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(sscall.o)
+ .note          0x0000000000002a24       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(ssstop.o)
+ .note          0x0000000000002a98       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(tempo.o)
+ .note          0x0000000000002b0c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_doff.o)
+ .note          0x0000000000002b80       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_f.o)
+ .note          0x0000000000002bf4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_g.o)
+ .note          0x0000000000002c68       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_seq.o)
+ .note          0x0000000000002cdc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(vm_vsu.o)
+ .note          0x0000000000002d50       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(cres.o)
+ .note          0x0000000000002dc4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(pause.o)
+ .note          0x0000000000002e38       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(play.o)
+ .note          0x0000000000002eac       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(replay.o)
+ .note          0x0000000000002f20       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(midiread.o)
+ .note          0x0000000000002f94       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(miditime.o)
+ .note          0x0000000000003008       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libsnd.a(next.o)
+ .note          0x000000000000307c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_crwa.o)
+ .note          0x00000000000030f0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gnv.o)
+ .note          0x0000000000003164       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_grv.o)
+ .note          0x00000000000031d8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gvex.o)
+ .note          0x000000000000324c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_i.o)
+ .note          0x00000000000032c0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_ini.o)
+ .note          0x0000000000003334       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_it.o)
+ .note          0x00000000000033a8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m.o)
+ .note          0x000000000000341c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_init.o)
+ .note          0x0000000000003490       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_m_util.o)
+ .note          0x0000000000003504       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_rmp0.o)
+ .note          0x0000000000003578       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sca.o)
+ .note          0x00000000000035ec       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sk.o)
+ .note          0x0000000000003660       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_snv.o)
+ .note          0x00000000000036d4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_srv.o)
+ .note          0x0000000000003748       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sva.o)
+ .note          0x00000000000037bc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(spu.o)
+ .note          0x0000000000003830       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(zerobuf.o)
+ .note          0x00000000000038a4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_dcb.o)
+ .note          0x0000000000003918       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_gav.o)
+ .note          0x000000000000398c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_n2p.o)
+ .note          0x0000000000003a00       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libspu.a(s_sav.o)
+ .note          0x0000000000003a74       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a07.o)
+ .note          0x0000000000003ae8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a08.o)
+ .note          0x0000000000003b5c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a10.o)
+ .note          0x0000000000003bd0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a12.o)
+ .note          0x0000000000003c44       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a22.o)
+ .note          0x0000000000003cb8       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a23.o)
+ .note          0x0000000000003d2c       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a24.o)
+ .note          0x0000000000003da0       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a25.o)
+ .note          0x0000000000003e14       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(a53.o)
+ .note          0x0000000000003e88       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c114.o)
+ .note          0x0000000000003efc       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libapi.a(c73.o)
+ .note          0x0000000000003f70       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(puts.o)
+ .note          0x0000000000003fe4       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(setjmp.o)
+ .note          0x0000000000004058       0x74 D:/FnfPSXMods/FNFDusttale-t0.12/mips/psyq/lib\libc2.a(strcmp.o)
+
+.debug_info     0x0000000000000000    0x1ce85
+ .debug_info    0x0000000000000000      0x363 src/main.o
+ .debug_info    0x0000000000000363      0x330 src/mem.o
+ .debug_info    0x0000000000000693      0x197 src/mutil.o
+ .debug_info    0x000000000000082a      0x35c src/timer.o
+ .debug_info    0x0000000000000b86      0x6e6 src/io.o
+ .debug_info    0x000000000000126c     0x1288 src/gfx.o
+ .debug_info    0x00000000000024f4      0xe9b src/audio.o
+ .debug_info    0x000000000000338f      0x2f7 src/pad.o
+ .debug_info    0x0000000000003686      0x1aa src/random.o
+ .debug_info    0x0000000000003830      0x213 src/archive.o
+ .debug_info    0x0000000000003a43      0x502 src/font.o
+ .debug_info    0x0000000000003f45      0x254 src/trans.o
+ .debug_info    0x0000000000004199      0x3b1 src/loadscr.o
+ .debug_info    0x000000000000454a     0x2097 src/menu.o
+ .debug_info    0x00000000000065e1     0x2ece src/stage.o
+ .debug_info    0x00000000000094af      0xe54 src/stage/week1.o
+ .debug_info    0x000000000000a303      0xdf0 src/stage/week2.o
+ .debug_info    0x000000000000b0f3      0xdd6 src/stage/week3.o
+ .debug_info    0x000000000000bec9      0xdd6 src/stage/weekchara.o
+ .debug_info    0x000000000000cc9f      0xdd6 src/stage/weekhell.o
+ .debug_info    0x000000000000da75      0x271 src/animation.o
+ .debug_info    0x000000000000dce6      0xde2 src/character.o
+ .debug_info    0x000000000000eac8     0x1787 src/character/bf.o
+ .debug_info    0x000000000001024f     0x1796 src/character/bfweeb.o
+ .debug_info    0x00000000000119e5     0x11f9 src/character/gf.o
+ .debug_info    0x0000000000012bde      0xda4 src/character/speaker.o
+ .debug_info    0x0000000000013982     0x11db src/character/dad.o
+ .debug_info    0x0000000000014b5d     0x11db src/character/spook.o
+ .debug_info    0x0000000000015d38     0x11db src/character/pico.o
+ .debug_info    0x0000000000016f13     0x11db src/character/mom.o
+ .debug_info    0x00000000000180ee     0x11fa src/character/senpai.o
+ .debug_info    0x00000000000192e8     0x11e7 src/character/chara.o
+ .debug_info    0x000000000001a4cf     0x1737 src/character/dustpico.o
+ .debug_info    0x000000000001bc06      0x2b6 src/object.o
+ .debug_info    0x000000000001bebc      0xfa5 src/object/combo.o
+ .debug_info    0x000000000001ce61       0x24 mips/common/crt0/crt0.o
+
+.debug_abbrev   0x0000000000000000     0x5a72
+ .debug_abbrev  0x0000000000000000      0x186 src/main.o
+ .debug_abbrev  0x0000000000000186      0x1bf src/mem.o
+ .debug_abbrev  0x0000000000000345      0x131 src/mutil.o
+ .debug_abbrev  0x0000000000000476      0x189 src/timer.o
+ .debug_abbrev  0x00000000000005ff      0x26c src/io.o
+ .debug_abbrev  0x000000000000086b      0x318 src/gfx.o
+ .debug_abbrev  0x0000000000000b83      0x490 src/audio.o
+ .debug_abbrev  0x0000000000001013      0x1a2 src/pad.o
+ .debug_abbrev  0x00000000000011b5       0xf9 src/random.o
+ .debug_abbrev  0x00000000000012ae      0x178 src/archive.o
+ .debug_abbrev  0x0000000000001426      0x268 src/font.o
+ .debug_abbrev  0x000000000000168e      0x180 src/trans.o
+ .debug_abbrev  0x000000000000180e      0x193 src/loadscr.o
+ .debug_abbrev  0x00000000000019a1      0x47f src/menu.o
+ .debug_abbrev  0x0000000000001e20      0x588 src/stage.o
+ .debug_abbrev  0x00000000000023a8      0x25a src/stage/week1.o
+ .debug_abbrev  0x0000000000002602      0x25a src/stage/week2.o
+ .debug_abbrev  0x000000000000285c      0x25a src/stage/week3.o
+ .debug_abbrev  0x0000000000002ab6      0x25a src/stage/weekchara.o
+ .debug_abbrev  0x0000000000002d10      0x25a src/stage/weekhell.o
+ .debug_abbrev  0x0000000000002f6a      0x14e src/animation.o
+ .debug_abbrev  0x00000000000030b8      0x242 src/character.o
+ .debug_abbrev  0x00000000000032fa      0x3c7 src/character/bf.o
+ .debug_abbrev  0x00000000000036c1      0x3c7 src/character/bfweeb.o
+ .debug_abbrev  0x0000000000003a88      0x323 src/character/gf.o
+ .debug_abbrev  0x0000000000003dab      0x26f src/character/speaker.o
+ .debug_abbrev  0x000000000000401a      0x311 src/character/dad.o
+ .debug_abbrev  0x000000000000432b      0x311 src/character/spook.o
+ .debug_abbrev  0x000000000000463c      0x311 src/character/pico.o
+ .debug_abbrev  0x000000000000494d      0x311 src/character/mom.o
+ .debug_abbrev  0x0000000000004c5e      0x311 src/character/senpai.o
+ .debug_abbrev  0x0000000000004f6f      0x311 src/character/chara.o
+ .debug_abbrev  0x0000000000005280      0x3ac src/character/dustpico.o
+ .debug_abbrev  0x000000000000562c      0x190 src/object.o
+ .debug_abbrev  0x00000000000057bc      0x2a2 src/object/combo.o
+ .debug_abbrev  0x0000000000005a5e       0x14 mips/common/crt0/crt0.o
+
+.debug_aranges  0x0000000000000000      0x948
+ .debug_aranges
+                0x0000000000000000       0x28 src/main.o
+ .debug_aranges
+                0x0000000000000028       0x30 src/mem.o
+ .debug_aranges
+                0x0000000000000058       0x30 src/mutil.o
+ .debug_aranges
+                0x0000000000000088       0x38 src/timer.o
+ .debug_aranges
+                0x00000000000000c0       0x60 src/io.o
+ .debug_aranges
+                0x0000000000000120       0x80 src/gfx.o
+ .debug_aranges
+                0x00000000000001a0       0xa0 src/audio.o
+ .debug_aranges
+                0x0000000000000240       0x28 src/pad.o
+ .debug_aranges
+                0x0000000000000268       0x48 src/random.o
+ .debug_aranges
+                0x00000000000002b0       0x20 src/archive.o
+ .debug_aranges
+                0x00000000000002d0       0x30 src/font.o
+ .debug_aranges
+                0x0000000000000300       0x40 src/trans.o
+ .debug_aranges
+                0x0000000000000340       0x28 src/loadscr.o
+ .debug_aranges
+                0x0000000000000368       0x40 src/menu.o
+ .debug_aranges
+                0x00000000000003a8      0x100 src/stage.o
+ .debug_aranges
+                0x00000000000004a8       0x30 src/stage/week1.o
+ .debug_aranges
+                0x00000000000004d8       0x30 src/stage/week2.o
+ .debug_aranges
+                0x0000000000000508       0x30 src/stage/week3.o
+ .debug_aranges
+                0x0000000000000538       0x30 src/stage/weekchara.o
+ .debug_aranges
+                0x0000000000000568       0x30 src/stage/weekhell.o
+ .debug_aranges
+                0x0000000000000598       0x38 src/animation.o
+ .debug_aranges
+                0x00000000000005d0       0x40 src/character.o
+ .debug_aranges
+                0x0000000000000610       0x40 src/character/bf.o
+ .debug_aranges
+                0x0000000000000650       0x40 src/character/bfweeb.o
+ .debug_aranges
+                0x0000000000000690       0x40 src/character/gf.o
+ .debug_aranges
+                0x00000000000006d0       0x30 src/character/speaker.o
+ .debug_aranges
+                0x0000000000000700       0x40 src/character/dad.o
+ .debug_aranges
+                0x0000000000000740       0x40 src/character/spook.o
+ .debug_aranges
+                0x0000000000000780       0x40 src/character/pico.o
+ .debug_aranges
+                0x00000000000007c0       0x40 src/character/mom.o
+ .debug_aranges
+                0x0000000000000800       0x40 src/character/senpai.o
+ .debug_aranges
+                0x0000000000000840       0x40 src/character/chara.o
+ .debug_aranges
+                0x0000000000000880       0x40 src/character/dustpico.o
+ .debug_aranges
+                0x00000000000008c0       0x38 src/object.o
+ .debug_aranges
+                0x00000000000008f8       0x30 src/object/combo.o
+ .debug_aranges
+                0x0000000000000928       0x20 mips/common/crt0/crt0.o
+
+.debug_rnglists
+                0x0000000000000000      0xb86
+ .debug_rnglists
+                0x0000000000000000       0x1a src/main.o
+ .debug_rnglists
+                0x000000000000001a       0x20 src/mem.o
+ .debug_rnglists
+                0x000000000000003a       0x1f src/mutil.o
+ .debug_rnglists
+                0x0000000000000059       0x27 src/timer.o
+ .debug_rnglists
+                0x0000000000000080       0x50 src/io.o
+ .debug_rnglists
+                0x00000000000000d0       0x63 src/gfx.o
+ .debug_rnglists
+                0x0000000000000133       0xf1 src/audio.o
+ .debug_rnglists
+                0x0000000000000224       0x19 src/pad.o
+ .debug_rnglists
+                0x000000000000023d       0x31 src/random.o
+ .debug_rnglists
+                0x000000000000026e       0x27 src/archive.o
+ .debug_rnglists
+                0x0000000000000295       0x31 src/font.o
+ .debug_rnglists
+                0x00000000000002c6       0x38 src/trans.o
+ .debug_rnglists
+                0x00000000000002fe       0x1a src/loadscr.o
+ .debug_rnglists
+                0x0000000000000318      0x138 src/menu.o
+ .debug_rnglists
+                0x0000000000000450      0x311 src/stage.o
+ .debug_rnglists
+                0x0000000000000761       0x21 src/stage/week1.o
+ .debug_rnglists
+                0x0000000000000782       0x21 src/stage/week2.o
+ .debug_rnglists
+                0x00000000000007a3       0x21 src/stage/week3.o
+ .debug_rnglists
+                0x00000000000007c4       0x21 src/stage/weekchara.o
+ .debug_rnglists
+                0x00000000000007e5       0x21 src/stage/weekhell.o
+ .debug_rnglists
+                0x0000000000000806       0x26 src/animation.o
+ .debug_rnglists
+                0x000000000000082c       0x2c src/character.o
+ .debug_rnglists
+                0x0000000000000858       0x69 src/character/bf.o
+ .debug_rnglists
+                0x00000000000008c1       0x69 src/character/bfweeb.o
+ .debug_rnglists
+                0x000000000000092a       0x2d src/character/gf.o
+ .debug_rnglists
+                0x0000000000000957       0x2f src/character/speaker.o
+ .debug_rnglists
+                0x0000000000000986       0x2d src/character/dad.o
+ .debug_rnglists
+                0x00000000000009b3       0x2d src/character/spook.o
+ .debug_rnglists
+                0x00000000000009e0       0x2d src/character/pico.o
+ .debug_rnglists
+                0x0000000000000a0d       0x2d src/character/mom.o
+ .debug_rnglists
+                0x0000000000000a3a       0x2d src/character/senpai.o
+ .debug_rnglists
+                0x0000000000000a67       0x2d src/character/chara.o
+ .debug_rnglists
+                0x0000000000000a94       0x55 src/character/dustpico.o
+ .debug_rnglists
+                0x0000000000000ae9       0x37 src/object.o
+ .debug_rnglists
+                0x0000000000000b20       0x66 src/object/combo.o
+
+.debug_line     0x0000000000000000     0x98b8
+ .debug_line    0x0000000000000000      0x1a3 src/main.o
+ .debug_line    0x00000000000001a3      0x25f src/mem.o
+ .debug_line    0x0000000000000402       0xf7 src/mutil.o
+ .debug_line    0x00000000000004f9      0x2c1 src/timer.o
+ .debug_line    0x00000000000007ba      0x295 src/io.o
+ .debug_line    0x0000000000000a4f      0x669 src/gfx.o
+ .debug_line    0x00000000000010b8      0x63a src/audio.o
+ .debug_line    0x00000000000016f2      0x16e src/pad.o
+ .debug_line    0x0000000000001860      0x14d src/random.o
+ .debug_line    0x00000000000019ad      0x13d src/archive.o
+ .debug_line    0x0000000000001aea      0x220 src/font.o
+ .debug_line    0x0000000000001d0a      0x1e7 src/trans.o
+ .debug_line    0x0000000000001ef1      0x178 src/loadscr.o
+ .debug_line    0x0000000000002069      0xdc2 src/menu.o
+ .debug_line    0x0000000000002e2b     0x2404 src/stage.o
+ .debug_line    0x000000000000522f      0x214 src/stage/week1.o
+ .debug_line    0x0000000000005443      0x211 src/stage/week2.o
+ .debug_line    0x0000000000005654      0x211 src/stage/week3.o
+ .debug_line    0x0000000000005865      0x215 src/stage/weekchara.o
+ .debug_line    0x0000000000005a7a      0x214 src/stage/weekhell.o
+ .debug_line    0x0000000000005c8e      0x1bd src/animation.o
+ .debug_line    0x0000000000005e4b      0x24b src/character.o
+ .debug_line    0x0000000000006096      0x80f src/character/bf.o
+ .debug_line    0x00000000000068a5      0x819 src/character/bfweeb.o
+ .debug_line    0x00000000000070be      0x34a src/character/gf.o
+ .debug_line    0x0000000000007408      0x2d4 src/character/speaker.o
+ .debug_line    0x00000000000076dc      0x344 src/character/dad.o
+ .debug_line    0x0000000000007a20      0x357 src/character/spook.o
+ .debug_line    0x0000000000007d77      0x345 src/character/pico.o
+ .debug_line    0x00000000000080bc      0x344 src/character/mom.o
+ .debug_line    0x0000000000008400      0x347 src/character/senpai.o
+ .debug_line    0x0000000000008747      0x346 src/character/chara.o
+ .debug_line    0x0000000000008a8d      0x6f5 src/character/dustpico.o
+ .debug_line    0x0000000000009182      0x175 src/object.o
+ .debug_line    0x00000000000092f7      0x566 src/object/combo.o
+ .debug_line    0x000000000000985d       0x5b mips/common/crt0/crt0.o
+
+.debug_str      0x0000000000000000     0x2ea4
+ .debug_str     0x0000000000000000      0x37f src/main.o
+                                        0x3bd (size before relaxing)
+ .debug_str     0x000000000000037f       0x9b src/mem.o
+                                        0x25c (size before relaxing)
+ .debug_str     0x000000000000041a       0x43 src/mutil.o
+                                        0x1e8 (size before relaxing)
+ .debug_str     0x000000000000045d      0x142 src/timer.o
+                                        0x30b (size before relaxing)
+ .debug_str     0x000000000000059f       0xfd src/io.o
+                                        0x301 (size before relaxing)
+ .debug_str     0x000000000000069c      0x28a src/gfx.o
+                                        0x4bb (size before relaxing)
+ .debug_str     0x0000000000000926      0x38c src/audio.o
+                                        0x63c (size before relaxing)
+ .debug_str     0x0000000000000cb2       0x7c src/pad.o
+                                        0x24d (size before relaxing)
+ .debug_str     0x0000000000000d2e       0x56 src/random.o
+                                        0x20f (size before relaxing)
+ .debug_str     0x0000000000000d84       0x2f src/archive.o
+                                        0x209 (size before relaxing)
+ .debug_str     0x0000000000000db3       0xae src/font.o
+                                        0x2ee (size before relaxing)
+ .debug_str     0x0000000000000e61       0x98 src/trans.o
+                                        0x264 (size before relaxing)
+ .debug_str     0x0000000000000ef9       0x4c src/loadscr.o
+                                        0x2f9 (size before relaxing)
+ .debug_str     0x0000000000000f45      0x7fd src/menu.o
+                                        0xe14 (size before relaxing)
+ .debug_str     0x0000000000001742      0x672 src/stage.o
+                                       0x12ea (size before relaxing)
+ .debug_str     0x0000000000001db4       0x70 src/stage/week1.o
+                                        0x90c (size before relaxing)
+ .debug_str     0x0000000000001e24       0x3f src/stage/week2.o
+                                        0x909 (size before relaxing)
+ .debug_str     0x0000000000001e63       0x3f src/stage/week3.o
+                                        0x8f5 (size before relaxing)
+ .debug_str     0x0000000000001ea2       0x4f src/stage/weekchara.o
+                                        0x909 (size before relaxing)
+ .debug_str     0x0000000000001ef1       0x4b src/stage/weekhell.o
+                                        0x904 (size before relaxing)
+ .debug_str     0x0000000000001f3c       0x66 src/animation.o
+                                        0x270 (size before relaxing)
+ .debug_str     0x0000000000001fa2       0x6f src/character.o
+                                        0x950 (size before relaxing)
+ .debug_str     0x0000000000002011      0x219 src/character/bf.o
+                                        0xd40 (size before relaxing)
+ .debug_str     0x000000000000222a      0x1c6 src/character/bfweeb.o
+                                        0xdc6 (size before relaxing)
+ .debug_str     0x00000000000023f0       0xe9 src/character/gf.o
+                                        0xabd (size before relaxing)
+ .debug_str     0x00000000000024d9       0x4c src/character/speaker.o
+                                        0x8e8 (size before relaxing)
+ .debug_str     0x0000000000002525       0xff src/character/dad.o
+                                        0xb15 (size before relaxing)
+ .debug_str     0x0000000000002624      0x11f src/character/spook.o
+                                        0xb37 (size before relaxing)
+ .debug_str     0x0000000000002743      0x10f src/character/pico.o
+                                        0xb26 (size before relaxing)
+ .debug_str     0x0000000000002852       0xff src/character/mom.o
+                                        0xb15 (size before relaxing)
+ .debug_str     0x0000000000002951      0x19a src/character/senpai.o
+                                        0xbb3 (size before relaxing)
+ .debug_str     0x0000000000002aeb      0x150 src/character/chara.o
+                                        0xb68 (size before relaxing)
+ .debug_str     0x0000000000002c3b      0x1c2 src/character/dustpico.o
+                                        0xda4 (size before relaxing)
+ .debug_str     0x0000000000002dfd       0x24 src/object.o
+                                        0x228 (size before relaxing)
+ .debug_str     0x0000000000002e21       0x70 src/object/combo.o
+                                        0x8fa (size before relaxing)
+ .debug_str     0x0000000000002e91       0x13 mips/common/crt0/crt0.o
+                                         0x33 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1794
+ .debug_frame   0x0000000000000000       0x48 src/main.o
+ .debug_frame   0x0000000000000048       0x40 src/mem.o
+ .debug_frame   0x0000000000000088       0x40 src/mutil.o
+ .debug_frame   0x00000000000000c8       0x6c src/timer.o
+ .debug_frame   0x0000000000000134      0x118 src/io.o
+ .debug_frame   0x000000000000024c      0x164 src/gfx.o
+ .debug_frame   0x00000000000003b0      0x1cc src/audio.o
+ .debug_frame   0x000000000000057c       0x40 src/pad.o
+ .debug_frame   0x00000000000005bc       0x94 src/random.o
+ .debug_frame   0x0000000000000650       0x34 src/archive.o
+ .debug_frame   0x0000000000000684       0x84 src/font.o
+ .debug_frame   0x0000000000000708       0x74 src/trans.o
+ .debug_frame   0x000000000000077c       0x50 src/loadscr.o
+ .debug_frame   0x00000000000007cc       0xc0 src/menu.o
+ .debug_frame   0x000000000000088c      0x400 src/stage.o
+ .debug_frame   0x0000000000000c8c       0x60 src/stage/week1.o
+ .debug_frame   0x0000000000000cec       0x60 src/stage/week2.o
+ .debug_frame   0x0000000000000d4c       0x60 src/stage/week3.o
+ .debug_frame   0x0000000000000dac       0x60 src/stage/weekchara.o
+ .debug_frame   0x0000000000000e0c       0x60 src/stage/weekhell.o
+ .debug_frame   0x0000000000000e6c       0x74 src/animation.o
+ .debug_frame   0x0000000000000ee0       0x7c src/character.o
+ .debug_frame   0x0000000000000f5c       0xc8 src/character/bf.o
+ .debug_frame   0x0000000000001024       0xc8 src/character/bfweeb.o
+ .debug_frame   0x00000000000010ec       0x8c src/character/gf.o
+ .debug_frame   0x0000000000001178       0x74 src/character/speaker.o
+ .debug_frame   0x00000000000011ec       0xa0 src/character/dad.o
+ .debug_frame   0x000000000000128c       0xa0 src/character/spook.o
+ .debug_frame   0x000000000000132c       0xa0 src/character/pico.o
+ .debug_frame   0x00000000000013cc       0xa0 src/character/mom.o
+ .debug_frame   0x000000000000146c       0xa0 src/character/senpai.o
+ .debug_frame   0x000000000000150c       0xa0 src/character/chara.o
+ .debug_frame   0x00000000000015ac       0xc8 src/character/dustpico.o
+ .debug_frame   0x0000000000001674       0x90 src/object.o
+ .debug_frame   0x0000000000001704       0x90 src/object/combo.o
+
+.debug_loclists
+                0x0000000000000000     0x4bbd
+ .debug_loclists
+                0x0000000000000000      0x14e src/mem.o
+ .debug_loclists
+                0x000000000000014e       0x64 src/mutil.o
+ .debug_loclists
+                0x00000000000001b2       0x5f src/timer.o
+ .debug_loclists
+                0x0000000000000211      0x1ce src/io.o
+ .debug_loclists
+                0x00000000000003df      0x785 src/gfx.o
+ .debug_loclists
+                0x0000000000000b64      0x3df src/audio.o
+ .debug_loclists
+                0x0000000000000f43       0x37 src/random.o
+ .debug_loclists
+                0x0000000000000f7a       0x4d src/archive.o
+ .debug_loclists
+                0x0000000000000fc7      0x25a src/font.o
+ .debug_loclists
+                0x0000000000001221       0x21 src/trans.o
+ .debug_loclists
+                0x0000000000001242      0x3a1 src/menu.o
+ .debug_loclists
+                0x00000000000015e3      0xdba src/stage.o
+ .debug_loclists
+                0x000000000000239d       0xda src/stage/week1.o
+ .debug_loclists
+                0x0000000000002477       0xd7 src/stage/week2.o
+ .debug_loclists
+                0x000000000000254e       0xd7 src/stage/week3.o
+ .debug_loclists
+                0x0000000000002625       0xd7 src/stage/weekchara.o
+ .debug_loclists
+                0x00000000000026fc       0xd7 src/stage/weekhell.o
+ .debug_loclists
+                0x00000000000027d3       0x9d src/animation.o
+ .debug_loclists
+                0x0000000000002870      0x123 src/character.o
+ .debug_loclists
+                0x0000000000002993      0x407 src/character/bf.o
+ .debug_loclists
+                0x0000000000002d9a      0x407 src/character/bfweeb.o
+ .debug_loclists
+                0x00000000000031a1      0x2c1 src/character/gf.o
+ .debug_loclists
+                0x0000000000003462       0xd7 src/character/speaker.o
+ .debug_loclists
+                0x0000000000003539      0x296 src/character/dad.o
+ .debug_loclists
+                0x00000000000037cf      0x29d src/character/spook.o
+ .debug_loclists
+                0x0000000000003a6c      0x296 src/character/pico.o
+ .debug_loclists
+                0x0000000000003d02      0x296 src/character/mom.o
+ .debug_loclists
+                0x0000000000003f98      0x297 src/character/senpai.o
+ .debug_loclists
+                0x000000000000422f      0x296 src/character/chara.o
+ .debug_loclists
+                0x00000000000044c5      0x3cf src/character/dustpico.o
+ .debug_loclists
+                0x0000000000004894       0xde src/object.o
+ .debug_loclists
+                0x0000000000004972      0x24b src/object/combo.o
+
+.debug_line_str
+                0x0000000000000000       0x18
+ .debug_line_str
+                0x0000000000000000       0x18 mips/common/crt0/crt0.o
+                                         0x30 (size before relaxing)

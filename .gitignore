@@ -7,39 +7,25 @@ license*.dat
 mips/psyq/
 
 # Exclude executable files
-*.cue
-*.elf
-*.bin
-*.map
-*.ps-exe
-*.exe
-/Overlay.*
-!overlay.ld
-tools/funkinisopak/funkinisopak
-tools/funkinarcpak/funkinarcpak
-tools/funkinchartpak/funkinchartpak
-tools/funkinpicopak/funkinpicopak
-tools/funkintimpak/funkintimpak
-tools/funkinexepak/funkinexepak
-tools/funkinmuspak/funkinmuspak
-tools/bin2h/bin2h
+funkin.cue
+funkin.elf
+funkin.bin
+funkin.map
+funkin.ps-exe
 
 # Exclude object and link files
-obj/
-bin/
-!bin/index.html
-!bin/README.txt
 *.o
 *.dep
 
-# Exclude CMake build directory
-build/
+# Exclude tool data and executables
+tools/funkinchartpak/*.json
+tools/funkinchartpak/*.cht
+tools/funkinchartpak/funkinchartpak.exe
+tools/funkinchartpak/funkinchartpak.elf
+tools/funkinchartpak/funkinchartpak
 
-# Exclude converted assets
-iso/*/*.tim
-iso/*/*.arc
-iso/*/*/*.mus
-iso/*/*.cht
-src/iso/
+tools/funkinarcpak/funkinarcpak.exe
+tools/funkinarcpak/funkinarcpak.elf
+tools/funkinarcpak/funkinarcpak
 
 # Big Chungus
